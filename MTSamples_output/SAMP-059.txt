@@ -1,0 +1,55 @@
+SAMP-059
+
+FINDING: Cervical spine radiographs demonstrate evidence of spondylosis including degenerative disk disease and anterior and posterior osteophyte formation at C4-5, C5-6, C6-7, and C3-4 demonstrates only minimal if any degenerative disk disease. There is no significant instability seen on flexion-extension views. Updated cervical spine MRI demonstrates evidence of moderate stenosis at C4-5, C5-6. These stenosis is in the bilateral neural foramina and there is also significant disk herniation noted at the C6-7 level. Minimal degenerative disk disease is seen at the C6-7. This stenosis is greater than C5-6 and the next level is more significantly involved at C4-5. Effacement of the ventral and dorsal CSF space is seen at C4-5, C5-6.
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- There is no significant instability seen on flexion-extension views.
+
+DEGENRATIVE SENTENCES:
+- Cervical spine radiographs demonstrate evidence of spondylosis including degenerative disk disease and anterior and posterior osteophyte formation at C4-5, C5-6, C6-7, and C3-4 demonstrates only minimal if any degenerative disk disease.
+    - level: C4-5, C5-6, C6-7, C3-4
+    - anatomy: disk
+    - degeneration: spondylosis
+    *****
+    - level: C4-5, C5-6, C6-7, C3-4
+    - anatomy: disk
+    - degeneration: degenerative disk disease
+    *****
+    - level: C4-5, C5-6, C6-7
+    - anatomy: -
+    - degeneration: anterior osteophyte formation
+    *****
+    - level: C4-5, C5-6, C6-7
+    - anatomy: -
+    - degeneration: posterior osteophyte formation
+- Updated cervical spine MRI demonstrates evidence of moderate stenosis at C4-5, C5-6.
+    - level: C4-5, C5-6
+    - anatomy: -
+    - degeneration: moderate stenosis
+- These stenosis is in the bilateral neural foramina and there is also significant disk herniation noted at the C6-7 level.
+    - level: C4-5, C5-6
+    - anatomy: neural foramina
+    - degeneration: stenosis
+    *****
+    - level: C6-7
+    - anatomy: disk
+    - degeneration: herniation
+- Minimal degenerative disk disease is seen at the C6-7.
+    - level: C6-7
+    - anatomy: disk
+    - degeneration: degenerative disk disease
+- This stenosis is greater than C5-6 and the next level is more significantly involved at C4-5.
+    - level: C4-5
+    - anatomy: -
+    - degeneration: significant stenosis
+- Effacement of the ventral and dorsal CSF space is seen at C4-5, C5-6.
+    - level: C4-5, C5-6
+    - anatomy: ventral CSF space
+    - degeneration: effacement
+    *****
+    - level: C4-5, C5-6
+    - anatomy: dorsal CSF space
+    - degeneration: effacement

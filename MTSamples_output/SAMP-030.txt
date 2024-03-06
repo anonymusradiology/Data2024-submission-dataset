@@ -1,0 +1,100 @@
+SAMP-030
+
+FINDING: There are no compression fractures of the vertebral bodies. The vertebral bodies themselves have no abnormal lytic or blastic changes suggested. There is disk desiccation of the lower three intervertebral disk spaces and then again at T12-L1 and T11-12. L5-S1 suggests only a very minimal bulge. No axial images were completed through this region. At L4-5, there is a large annular bulge and significant facet hypertrophy. There is also a midline and right recess disk protrusion, which appears to occupy most of the right recess and neural foramen with a small amount of space still remaining at the most superior aspect of the neural foramen. This soft tissue disease in concert with facet disease does appear to significantly compress that right crossing nerve root. In addition, this combination of bone and soft tissue disease produces a trilateral narrowing of the spinal canal, which is moderately significant. There is some mild left neural foraminal narrowing at this level, but it is not as great as the compromise to the right. At L3-4, we again see trilateral narrowing of the spinal canal due to both disk and bony facet hypertrophy. Again, there is disk desiccation and some annular disk bulging at this level, which produces mild to moderate neural foraminal narrowing bilaterally. It is again greater to the right than the left. At L2-3, there is no disk desiccation and there is only a minimal bulge. There is some very minimal facet hypertrophy. Still, there is some narrowing of the spinal canal. A component of this may be due to congenitally short pedicles. The sagittal images also suggest some annular disk disease at T11-12, which protrudes to the central midline region. There also appears to be some facet hypertrophy bilaterally, though greater on the right. Axial images were not taken through this region, most likely due to the patient's discomfort. Should there be radicular symptoms that are felt to be related to this T11-12 disk space, we would be happy to have the patient come back for additional views and do an addendum at a later date.
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- There are no compression fractures of the vertebral bodies.
+- The vertebral bodies themselves have no abnormal lytic or blastic changes suggested.
+- No axial images were completed through this region.
+- It is again greater to the right than the left.
+- Axial images were not taken through this region, most likely due to the patient's discomfort.
+- Should there be radicular symptoms that are felt to be related to this T11-12 disk space, we would be happy to have the patient come back for additional views and do an addendum at a later date.
+
+DEGENRATIVE SENTENCES:
+- There is disk desiccation of the lower three intervertebral disk spaces and then again at T12-L1 and T11-12.
+    - level: L3, L4, L5, T12-L1, T11-12
+    - anatomy: disk
+    - degeneration: desiccation
+- L5-S1 suggests only a very minimal bulge.
+    - level: L5-S1
+    - anatomy: -
+    - degeneration: bulge
+- At L4-5, there is a large annular bulge and significant facet hypertrophy.
+    - level: L4-5
+    - anatomy: -
+    - degeneration: annular bulge
+    *****
+    - level: L4-5
+    - anatomy: facet
+    - degeneration: hypertrophy
+- There is also a midline and right recess disk protrusion, which appears to occupy most of the right recess and neural foramen with a small amount of space still remaining at the most superior aspect of the neural foramen.
+    - level: L4-5
+    - anatomy: disk
+    - degeneration: protrusion
+- This soft tissue disease in concert with facet disease does appear to significantly compress that right crossing nerve root.
+    - level: L4-5
+    - anatomy: right crossing nerve root
+    - degeneration: compress
+- In addition, this combination of bone and soft tissue disease produces a trilateral narrowing of the spinal canal, which is moderately significant.
+    - level: L4-5
+    - anatomy: spinal canal
+    - degeneration: trilateral narrowing
+- There is some mild left neural foraminal narrowing at this level, but it is not as great as the compromise to the right.
+    - level: L4-5
+    - anatomy: left neural foramen
+    - degeneration: narrowing
+- At L3-4, we again see trilateral narrowing of the spinal canal due to both disk and bony facet hypertrophy.
+    - level: L3-4
+    - anatomy: spinal canal
+    - degeneration: trilateral narrowing
+    *****
+    - level: L3-4
+    - anatomy: disk
+    - degeneration: hypertrophy
+    *****
+    - level: L3-4
+    - anatomy: facet
+    - degeneration: hypertrophy
+- Again, there is disk desiccation and some annular disk bulging at this level, which produces mild to moderate neural foraminal narrowing bilaterally.
+    - level: L3-4
+    - anatomy: disk
+    - degeneration: desiccation
+    *****
+    - level: L3-4
+    - anatomy: disk
+    - degeneration: annular bulging
+    *****
+    - level: L3-4
+    - anatomy: neural foramen
+    - degeneration: narrowing
+- At L2-3, there is no disk desiccation and there is only a minimal bulge.
+    - level: L2-3
+    - anatomy: -
+    - degeneration: bulge
+- There is some very minimal facet hypertrophy.
+    - level: L2-3
+    - anatomy: facet
+    - degeneration: hypertrophy
+- Still, there is some narrowing of the spinal canal.
+    - level: L2-3
+    - anatomy: spinal canal
+    - degeneration: narrowing
+- A component of this may be due to congenitally short pedicles.
+    - level: L2-3
+    - anatomy: pedicles
+    - degeneration: short
+- The sagittal images also suggest some annular disk disease at T11-12, which protrudes to the central midline region.
+    - level: T11-12
+    - anatomy: disk
+    - degeneration: annular disease
+    *****
+    - level: T11-12
+    - anatomy: -
+    - degeneration: protrusion
+- There also appears to be some facet hypertrophy bilaterally, though greater on the right.
+    - level: T11-12
+    - anatomy: facet
+    - degeneration: hypertrophy

@@ -1,0 +1,31 @@
+SAMP-009
+
+FINDING: MRI examination of the lumbar spine reveals a lobulated mass (intermediate signal T1, mixed and predominantly high signal T2, high signal IR) involving the left L1 pedicle, left lamina, transverse process and posterolateral aspect of the vertebral body with apparent cortical destruction and effacement of the left multifidus and sacrospinalis muscles. This finding measures 4.5 x 4.1 x 2.0 cm and enhances post contrast. There is no evidence of halo calcification or cartilaginous matrix. Adjacent soft tissue edema is attendant. There is intraspinal canal involvement above the level of the T12 endplate, terminating at the inferior L1 endplate with involvement of the left L1 spinal nerve and medial displacement of the cord and conus medullaris. Signal changes persist in the left sacrospinalis muscle (increased signal T2) from L2 through the inferior L3 endplate, suggesting atrophy. The lumbar disks are of normal height and signal. Vertebral body alignment is anatomic. There is no evidence of disk displacement/derangement or bony central canal stenosis.
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- This finding measures 4.5 x 4.1 x 2.0 cm and enhances post contrast.
+- There is no evidence of halo calcification or cartilaginous matrix.
+- The lumbar disks are of normal height and signal.
+- Vertebral body alignment is anatomic.
+- There is no evidence of disk displacement/derangement or bony central canal stenosis.
+
+DEGENRATIVE SENTENCES:
+- MRI examination of the lumbar spine reveals a lobulated mass (intermediate signal T1, mixed and predominantly high signal T2, high signal IR) involving the left L1 pedicle, left lamina, transverse process and posterolateral aspect of the vertebral body with apparent cortical destruction and effacement of the left multifidus and sacrospinalis muscles.
+    - level: L1
+    - anatomy: pedicle, lamina, transverse process, vertebral body, multifidus muscle, sacrospinalis muscle
+    - degeneration: lobulated mass, cortical destruction, effacement
+- Adjacent soft tissue edema is attendant.
+    - level: L1
+    - anatomy: soft tissue
+    - degeneration: edema
+- There is intraspinal canal involvement above the level of the T12 endplate, terminating at the inferior L1 endplate with involvement of the left L1 spinal nerve and medial displacement of the cord and conus medullaris.
+    - level: T12, L1
+    - anatomy: intraspinal canal, spinal nerve, cord, conus medullaris
+    - degeneration: involvement, displacement
+- Signal changes persist in the left sacrospinalis muscle (increased signal T2) from L2 through the inferior L3 endplate, suggesting atrophy.
+    - level: L2, L3
+    - anatomy: sacrospinalis muscle
+    - degeneration: signal changes, atrophy

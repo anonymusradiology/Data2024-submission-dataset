@@ -1,0 +1,121 @@
+SAMP-013
+
+FINDING: Preliminary scout film demonstrates anterior end plate spondylosis at T11-12 and T12-L1. At L1-2 level there is normal disc height, anterior end plate spondylosis, very minimal vacuum change with no posterior annular disc bulging or protrusion. Normal central canal, intervertebral neural foramina and facet joint. At L2-3 level there is mild decreased disc height, anterior end plate spondylosis, circumferential disc protrusion measuring 4.6mm (AP) and right extraforaminal osteophyte disc complex. There is mild non-compressive right neural foraminal narrowing, minimal facet arthrosis, normal central canal and left neural foramen. At L3-4 level there is normal disc height, anterior end plate spondylosis, and circumferential non-compressive annular disc bulging. The disc bulging flattens the ventral thecal sac and there is minimal non-compressive right neural foraminal narrowing, minimal to mild facet arthrosis with vacuum change on the right, normal central canal and left neural foramen. At L4-5 level there is normal disc height, minimal anterior end plate spondylosis, and posterior non-compressive annular disc bulging. There is minimal narrowing of the lateral recesses of L5, mild to moderate facet arthrosis greater on the right, normal central canal and intervertebral neural foramina. At L5-S1 level there is severe loss of disc height with vacuum change, spondylolisthesis with 6.9mm of anterolisthesis of L5 with no disc protrusion. There is mild to moderate neural foraminal stenosis with possible neural impingement greater on the right with elongation of the neural foramina, mild facet arthrosis, and moderate degenerative change at the level of the pars interarticularis defect. Normal central canal. There is no significant degenerative change at the SI joints. There is moderate arteriosclerotic calcifications in the abdominal aorta and proximal common iliac arteries.
+
+EXTRASPINAL SENTENCES:
+- There is moderate arteriosclerotic calcifications in the abdominal aorta and proximal common iliac arteries.
+
+NON DEGENRATIVE SENTENCES:
+- Normal central canal, intervertebral neural foramina and facet joint.
+- Normal central canal.
+- There is no significant degenerative change at the SI joints.
+
+DEGENRATIVE SENTENCES:
+- Preliminary scout film demonstrates anterior end plate spondylosis at T11-12 and T12-L1.
+    - level: T11-12, T12-L1
+    - anatomy: anterior end plate
+    - degeneration: spondylosis
+- At L1-2 level there is normal disc height, anterior end plate spondylosis, very minimal vacuum change with no posterior annular disc bulging or protrusion.
+    - level: L1-2
+    - anatomy: anterior end plate
+    - degeneration: spondylosis
+    *****
+    - level: L1-2
+    - anatomy: -
+    - degeneration: vacuum change
+- At L2-3 level there is mild decreased disc height, anterior end plate spondylosis, circumferential disc protrusion measuring 4.6mm (AP) and right extraforaminal osteophyte disc complex.
+    - level: L2-3
+    - anatomy: disc
+    - degeneration: decreased height
+    *****
+    - level: L2-3
+    - anatomy: anterior end plate
+    - degeneration: spondylosis
+    *****
+    - level: L2-3
+    - anatomy: disc
+    - degeneration: protrusion
+    *****
+    - level: L2-3
+    - anatomy: osteophyte disc complex
+    - degeneration: extraforaminal
+- There is mild non-compressive right neural foraminal narrowing, minimal facet arthrosis, normal central canal and left neural foramen.
+    - level: L2-3
+    - anatomy: neural foramen
+    - degeneration: narrowing
+    *****
+    - level: L2-3
+    - anatomy: facet
+    - degeneration: arthrosis
+- At L3-4 level there is normal disc height, anterior end plate spondylosis, and circumferential non-compressive annular disc bulging.
+    - level: L3-4
+    - anatomy: anterior end plate
+    - degeneration: spondylosis
+    *****
+    - level: L3-4
+    - anatomy: disc
+    - degeneration: bulging
+- The disc bulging flattens the ventral thecal sac and there is minimal non-compressive right neural foraminal narrowing, minimal to mild facet arthrosis with vacuum change on the right, normal central canal and left neural foramen.
+    - level: L3-4
+    - anatomy: thecal sac
+    - degeneration: flattens
+    *****
+    - level: L3-4
+    - anatomy: neural foramen
+    - degeneration: narrowing
+    *****
+    - level: L3-4
+    - anatomy: facet
+    - degeneration: arthrosis
+    *****
+    - level: L3-4
+    - anatomy: -
+    - degeneration: vacuum change
+- At L4-5 level there is normal disc height, minimal anterior end plate spondylosis, and posterior non-compressive annular disc bulging.
+    - level: L4-5
+    - anatomy: anterior end plate
+    - degeneration: spondylosis
+    *****
+    - level: L4-5
+    - anatomy: disc
+    - degeneration: bulging
+- There is minimal narrowing of the lateral recesses of L5, mild to moderate facet arthrosis greater on the right, normal central canal and intervertebral neural foramina.
+    - level: L4-5
+    - anatomy: lateral recesses
+    - degeneration: narrowing
+    *****
+    - level: L4-5
+    - anatomy: facet
+    - degeneration: arthrosis
+- At L5-S1 level there is severe loss of disc height with vacuum change, spondylolisthesis with 6.9mm of anterolisthesis of L5 with no disc protrusion.
+    - level: L5-S1
+    - anatomy: disc
+    - degeneration: loss of height
+    *****
+    - level: L5-S1
+    - anatomy: -
+    - degeneration: vacuum change
+    *****
+    - level: L5-S1
+    - anatomy: -
+    - degeneration: spondylolisthesis
+- There is mild to moderate neural foraminal stenosis with possible neural impingement greater on the right with elongation of the neural foramina, mild facet arthrosis, and moderate degenerative change at the level of the pars interarticularis defect.
+    - level: L5-S1
+    - anatomy: neural foramen
+    - degeneration: stenosis
+    *****
+    - level: L5-S1
+    - anatomy: neural foramen
+    - degeneration: impingement
+    *****
+    - level: L5-S1
+    - anatomy: neural foramina
+    - degeneration: elongation
+    *****
+    - level: L5-S1
+    - anatomy: facet
+    - degeneration: arthrosis
+    *****
+    - level: L5-S1
+    - anatomy: pars interarticularis
+    - degeneration: degenerative change

@@ -1,0 +1,20 @@
+SAMP-024
+
+FINDING: No fractures, subluxations or other acute bony abnormalities are identified. There is mild degenerative change with mild endplate spur formation and mild facet sclerosis at all levels. No erosive or destructive changes are seen.
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- No fractures, subluxations or other acute bony abnormalities are identified.
+- No erosive or destructive changes are seen.
+
+DEGENRATIVE SENTENCES:
+- There is mild degenerative change with mild endplate spur formation and mild facet sclerosis at all levels.
+    - level: all levels
+    - anatomy: endplate
+    - degeneration: spur formation
+    *****
+    - level: all levels
+    - anatomy: facet
+    - degeneration: sclerosis

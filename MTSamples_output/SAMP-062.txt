@@ -1,0 +1,51 @@
+SAMP-062
+
+FINDING: MRI L-spine, 7/3/93, revealed an area of abnormally increased T2 signal extending from T12 through L5. This area causes anterior displacement of the spinal cord and nerve roots. The cauda equina are pushed up against the posterior L1 vertebral body. There bilaterally pulmonary effusions. There is also abnormally increased T2 signal in the center of the spinal cord extending from the mid thoracic level through the conus. In addition, the Fila Terminale appear thickened. There is increased signal in the T3 vertebral body suggestion a hemangioma. The findings were felt consistent with a large epidural lipoma displacing the spinal cord anteriorly. there also appeared spinal cord swelling and increased signal within the spinal cord which suggests an intramedullary process.
+
+EXTRASPINAL SENTENCES:
+- There bilaterally pulmonary effusions.
+
+NON DEGENRATIVE SENTENCES:
+
+
+DEGENRATIVE SENTENCES:
+- MRI L-spine, 7/3/93, revealed an area of abnormally increased T2 signal extending from T12 through L5.
+    - level: T12, L1, L2, L3, L4, L5
+    - anatomy: -
+    - degeneration: increased T2 signal
+- This area causes anterior displacement of the spinal cord and nerve roots.
+    - level: T12, L1, L2, L3, L4, L5
+    - anatomy: spinal cord
+    - degeneration: displacement
+    *****
+    - level: T12, L1, L2, L3, L4, L5
+    - anatomy: nerve roots
+    - degeneration: displacement
+- The cauda equina are pushed up against the posterior L1 vertebral body.
+    - level: L1
+    - anatomy: cauda equina
+    - degeneration: pushed up
+- There is also abnormally increased T2 signal in the center of the spinal cord extending from the mid thoracic level through the conus.
+    - level: thoracic
+    - anatomy: spinal cord
+    - degeneration: increased T2 signal
+- In addition, the Fila Terminale appear thickened.
+    - level: -
+    - anatomy: Fila Terminale
+    - degeneration: thickened
+- There is increased signal in the T3 vertebral body suggestion a hemangioma.
+    - level: T3
+    - anatomy: vertebral body
+    - degeneration: increased signal
+- The findings were felt consistent with a large epidural lipoma displacing the spinal cord anteriorly.
+    - level: -
+    - anatomy: spinal cord
+    - degeneration: displacing
+- there also appeared spinal cord swelling and increased signal within the spinal cord which suggests an intramedullary process.
+    - level: -
+    - anatomy: spinal cord
+    - degeneration: swelling
+    *****
+    - level: -
+    - anatomy: spinal cord
+    - degeneration: increased signal

@@ -1,0 +1,22 @@
+SAMP-045
+
+FINDING: There is reversal of the normal cervical curvature at the vertebral body heights. The intervertebral disk spaces are otherwise maintained. There is no prevertebral soft tissue swelling. The facets are aligned. The tip of the clivus and occiput appear intact. On the coronal reconstructed sequence, there is satisfactory alignment of C1 on C2, no evidence of a base of dens fracture. The included portions of the first and second ribs are intact. There is no evidence of a posterior element fracture. Included portions of the mastoid air cells appear clear. There is no CT evidence of a moderate or high-grade stenosis.
+
+EXTRASPINAL SENTENCES:
+- The included portions of the first and second ribs are intact.
+- Included portions of the mastoid air cells appear clear.
+
+NON DEGENRATIVE SENTENCES:
+- The intervertebral disk spaces are otherwise maintained.
+- There is no prevertebral soft tissue swelling.
+- The facets are aligned.
+- The tip of the clivus and occiput appear intact.
+- On the coronal reconstructed sequence, there is satisfactory alignment of C1 on C2, no evidence of a base of dens fracture.
+- There is no evidence of a posterior element fracture.
+- There is no CT evidence of a moderate or high-grade stenosis.
+
+DEGENRATIVE SENTENCES:
+- There is reversal of the normal cervical curvature at the vertebral body heights.
+    - level: cervical
+    - anatomy: vertebral body
+    - degeneration: reversal of normal curvature

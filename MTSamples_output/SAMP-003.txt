@@ -1,0 +1,56 @@
+SAMP-003
+
+FINDING: Vertebral body signal and vertebral body height are preserved. The overall canal size is unremarkable. The conus medullaris is clear. At L1-L2, L2-L3, L3-L4 and L4-L5 there is normal disk signal and disk height. A few images suggest mild disk bulging to the left at L4-L5. At L5-S1, there is disk degeneration with loss of disk signal and disk height. There is mild to moderate broad-based disk protrusion impinging upon the anterior aspect of the dural sac and narrowing both neuroforamina and clinical correlation is advised regarding the status of both L5nerve roots. Sagittal images obtained in flexion reveal normal range of motion without evidence of instability or pathologic offset. Disk protrusion is somewhat more apparent than in the neutral/sitting position. Sagittal images obtained in extension reveal normal range of motion without evidence of instability or pathologic offset. Disk protrusion is also somewhat more apparent than in the neutral/sitting position.
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- Vertebral body signal and vertebral body height are preserved.
+- The overall canal size is unremarkable.
+- The conus medullaris is clear.
+- At L1-L2, L2-L3, L3-L4 and L4-L5 there is normal disk signal and disk height.
+- Sagittal images obtained in flexion reveal normal range of motion without evidence of instability or pathologic offset.
+- Sagittal images obtained in extension reveal normal range of motion without evidence of instability or pathologic offset.
+
+DEGENRATIVE SENTENCES:
+- A few images suggest mild disk bulging to the left at L4-L5.
+    - level: L4-L5
+    - anatomy: disk
+    - degeneration: bulging
+- At L5-S1, there is disk degeneration with loss of disk signal and disk height.
+    - level: L5-S1
+    - anatomy: disk
+    - degeneration: degeneration
+    *****
+    - level: L5-S1
+    - anatomy: disk
+    - degeneration: loss of signal
+    *****
+    - level: L5-S1
+    - anatomy: disk
+    - degeneration: loss of height
+- There is mild to moderate broad-based disk protrusion impinging upon the anterior aspect of the dural sac and narrowing both neuroforamina and clinical correlation is advised regarding the status of both L5 nerve roots.
+    - level: L5-S1
+    - anatomy: disk
+    - degeneration: protrusion
+    *****
+    - level: L5-S1
+    - anatomy: dural sac
+    - degeneration: impinging
+    *****
+    - level: L5-S1
+    - anatomy: neuroforamina
+    - degeneration: narrowing
+    *****
+    - level: L5
+    - anatomy: nerve roots
+    - degeneration: status advised
+- Disk protrusion is somewhat more apparent than in the neutral/sitting position.
+    - level: L5-S1
+    - anatomy: disk
+    - degeneration: protrusion
+- Disk protrusion is also somewhat more apparent than in the neutral/sitting position.
+    - level: L5-S1
+    - anatomy: disk
+    - degeneration: protrusion

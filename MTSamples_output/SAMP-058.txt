@@ -1,0 +1,36 @@
+SAMP-058
+
+FINDING: MRI of the brain from 05/02/06 and MRI of the C-spine from 05/02/06 and 07/25/06 were personally reviewed. MRI of the brain is broadly within normal limits. MRI of the C-spine reveals large central disc herniation at C6-C7 with evidence of mild cord compression and abnormal signal in the cord suggesting cord edema. There is also a fairly large disc at C3-C4 with cord deformity and partial effacement of the subarachnoid space. I do not appreciate any cord edema at this level.
+
+EXTRASPINAL SENTENCES:
+- MRI of the brain from 05/02/06 and MRI of the C-spine from 05/02/06 and 07/25/06 were personally reviewed.
+- MRI of the brain is broadly within normal limits.
+
+NON DEGENRATIVE SENTENCES:
+- I do not appreciate any cord edema at this level.
+
+DEGENRATIVE SENTENCES:
+- MRI of the C-spine reveals large central disc herniation at C6-C7 with evidence of mild cord compression and abnormal signal in the cord suggesting cord edema.
+    - level: C6-C7
+    - anatomy: disc
+    - degeneration: herniation
+    *****
+    - level: C6-C7
+    - anatomy: cord
+    - degeneration: compression
+    *****
+    - level: C6-C7
+    - anatomy: cord
+    - degeneration: abnormal signal
+- There is also a fairly large disc at C3-C4 with cord deformity and partial effacement of the subarachnoid space.
+    - level: C3-C4
+    - anatomy: disc
+    - degeneration: large
+    *****
+    - level: C3-C4
+    - anatomy: cord
+    - degeneration: deformity
+    *****
+    - level: C3-C4
+    - anatomy: subarachnoid space
+    - degeneration: partial effacement

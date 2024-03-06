@@ -1,0 +1,31 @@
+SAMP-029
+
+FINDING: Sagittal and axial images were obtained. The upper lumbar spine is not well visualized due to body habitus and positioning within the coil. The conus appears grossly within normal limits, normal in location and signal intensity. The marrow signal appears within normal limits. There is marked narrowing at L5-S1 with some apparent fusion at this level to the left of midline. There is some minimal scoliosis. Marrow signal within the bony structures is unremarkable. At L5-S1, the nerve roots exit normally. There is some slight right neural foraminal narrowing on one image due to a combination of bone and disk
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- The upper lumbar spine is not well visualized due to body habitus and positioning within the coil.
+- The conus appears grossly within normal limits, normal in location and signal intensity.
+- The marrow signal appears within normal limits.
+- Marrow signal within the bony structures is unremarkable.
+- At L5-S1, the nerve roots exit normally.
+
+DEGENRATIVE SENTENCES:
+- There is marked narrowing at L5-S1 with some apparent fusion at this level to the left of midline.
+    - level: L5-S1
+    - anatomy: -
+    - degeneration: narrowing
+    *****
+    - level: L5-S1
+    - anatomy: -
+    - degeneration: fusion
+- There is some minimal scoliosis.
+    - level: L5-S1
+    - anatomy: -
+    - degeneration: scoliosis
+- There is some slight right neural foraminal narrowing on one image due to a combination of bone and disk.
+    - level: L5-S1
+    - anatomy: neural foramen
+    - degeneration: narrowing

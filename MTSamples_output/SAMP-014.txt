@@ -1,0 +1,37 @@
+SAMP-014
+
+FINDING: The central skull base is intact. The central petrous temporal bones and mastoids remain clear. The visualized base of brain appears unremarkable. Cervical spondylosis is noted, most notable for a broad-based disc bulge and dorsal osteophytic ridge at the C5/6 level with a C6/7 level focal 2 mm central disc protrusion and dorsal osteophytic ridging, resulting in mild central spinal stenosis. Mild foraminal narrowing also evident bilaterally.
+
+EXTRASPINAL SENTENCES:
+- The central skull base is intact.
+- The central petrous temporal bones and mastoids remain clear.
+- The visualized base of brain appears unremarkable.
+
+NON DEGENRATIVE SENTENCES:
+
+
+DEGENRATIVE SENTENCES:
+- Cervical spondylosis is noted, most notable for a broad-based disc bulge and dorsal osteophytic ridge at the C5/6 level with a C6/7 level focal 2 mm central disc protrusion and dorsal osteophytic ridging, resulting in mild central spinal stenosis.
+    - level: C5-6
+    - anatomy: disc
+    - degeneration: bulge
+    *****
+    - level: C5-6
+    - anatomy: -
+    - degeneration: dorsal osteophytic ridge
+    *****
+    - level: C6-7
+    - anatomy: disc
+    - degeneration: 2 mm central protrusion
+    *****
+    - level: C6-7
+    - anatomy: -
+    - degeneration: dorsal osteophytic ridging
+    *****
+    - level: C5-6, C6-7
+    - anatomy: spinal canal
+    - degeneration: mild central stenosis
+- Mild foraminal narrowing also evident bilaterally.
+    - level: C5-6, C6-7
+    - anatomy: foramen
+    - degeneration: mild narrowing

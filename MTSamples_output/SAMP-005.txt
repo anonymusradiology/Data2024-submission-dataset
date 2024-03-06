@@ -1,0 +1,91 @@
+SAMP-005
+
+FINDING: Vertebral body signal and vertebral body height are preserved. There is a somewhat steep lumbar lordosis. The overall canal size is unremarkable. There is mild-to-moderate multilevel lower thoracic disk degeneration at the periphery of the field of view of questionable significance. At L1-L2, there is some desiccation with mild bi-foraminal disk bulging, right greater than left, but without distinct focal disk herniation. There is desiccation L2-L3 without evidence of disk herniation. At L3-L4, there is moderate disk degeneration with some loss of disk signal and disk height. There is mild bi-foraminal disk bulging, right greater than left without focal disk herniation. At L4-L5, there is desiccation and some facet joint DJD, but there is no evidence of disk herniation and neurofamina compromise. At L5-S1, there is disk degeneration with loss of disk signal and disk height. There is a mild spondylolisthesis of L5 upon S1. This appears to be due to facet joint DJD/laxity. There is mild-to moderate broad-based disk protrusion with shallow midline/left paramedian disk herniation. Left neural foramina is somewhat narrowed when compared to the right. Sagittal images obtained in flexion reveal limited range of motion. There was no evidence of instability, pathologic offset or alteration in posterior disk margin. Sagittal images obtained in extension, also reveal limited range of motion without evidence of instability, pathologic offset or alteration in posterior disk margin.
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- Vertebral body signal and vertebral body height are preserved.
+- The overall canal size is unremarkable.
+- Sagittal images obtained in flexion reveal limited range of motion.
+- There was no evidence of instability, pathologic offset or alteration in posterior disk margin.
+- Sagittal images obtained in extension, also reveal limited range of motion without evidence of instability, pathologic offset or alteration in posterior disk margin.
+
+DEGENRATIVE SENTENCES:
+- There is a somewhat steep lumbar lordosis.
+    - level: lumbar
+    - anatomy: -
+    - degeneration: steep lordosis
+- There is mild-to-moderate multilevel lower thoracic disk degeneration at the periphery of the field of view of questionable significance.
+    - level: lower thoracic
+    - anatomy: disk
+    - degeneration: degeneration
+- At L1-L2, there is some desiccation with mild bi-foraminal disk bulging, right greater than left, but without distinct focal disk herniation.
+    - level: L1-L2
+    - anatomy: disk
+    - degeneration: desiccation
+    *****
+    - level: L1-L2
+    - anatomy: disk
+    - degeneration: bulging
+- There is desiccation L2-L3 without evidence of disk herniation.
+    - level: L2-L3
+    - anatomy: disk
+    - degeneration: desiccation
+- At L3-L4, there is moderate disk degeneration with some loss of disk signal and disk height.
+    - level: L3-L4
+    - anatomy: disk
+    - degeneration: degeneration
+    *****
+    - level: L3-L4
+    - anatomy: disk
+    - degeneration: loss of signal
+    *****
+    - level: L3-L4
+    - anatomy: disk
+    - degeneration: loss of height
+- There is mild bi-foraminal disk bulging, right greater than left without focal disk herniation.
+    - level: L3-L4
+    - anatomy: disk
+    - degeneration: bulging
+- At L4-L5, there is desiccation and some facet joint DJD, but there is no evidence of disk herniation and neurofamina compromise.
+    - level: L4-L5
+    - anatomy: disk
+    - degeneration: desiccation
+    *****
+    - level: L4-L5
+    - anatomy: facet joint
+    - degeneration: DJD
+- At L5-S1, there is disk degeneration with loss of disk signal and disk height.
+    - level: L5-S1
+    - anatomy: disk
+    - degeneration: degeneration
+    *****
+    - level: L5-S1
+    - anatomy: disk
+    - degeneration: loss of signal
+    *****
+    - level: L5-S1
+    - anatomy: disk
+    - degeneration: loss of height
+- There is a mild spondylolisthesis of L5 upon S1.
+    - level: L5-S1
+    - anatomy: -
+    - degeneration: spondylolisthesis
+- This appears to be due to facet joint DJD/laxity.
+    - level: L5-S1
+    - anatomy: facet joint
+    - degeneration: DJD/laxity
+- There is mild-to moderate broad-based disk protrusion with shallow midline/left paramedian disk herniation.
+    - level: L5-S1
+    - anatomy: disk
+    - degeneration: protrusion
+    *****
+    - level: L5-S1
+    - anatomy: disk
+    - degeneration: herniation
+- Left neural foramina is somewhat narrowed when compared to the right.
+    - level: L5-S1
+    - anatomy: neural foramina
+    - degeneration: narrowed

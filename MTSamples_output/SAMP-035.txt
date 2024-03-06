@@ -1,0 +1,117 @@
+SAMP-035
+
+FINDING: Normal foramen magnum. Normal brainstem-cervical cord junction. There is no tonsillar ectopia. Normal clivus and craniovertebral junction. Normal anterior atlantoaxial articulation. At C2-3 there is disc desiccation but no loss of disc space height, disc displacement, endplate spondylosis or uncovertebral joint arthrosis. Normal central canal and intervertebral neural foramina. C3-4 there is disc desiccation with a posterior central disc herniation of the protrusion type. The small posterior central disc protrusion measures 3 x 6mm (AP x transverse) in size and is producing ventral thecal sac flattening. CSF remains present surrounding the cord. The residual AP diameter of the central canal measures 9mm. There is minimal right-sided uncovertebral joint arthrosis but no substantial foraminal compromise. At C4-5 there is disc desiccation, slight loss of disc space height with a right posterior lateral pre-foraminal disc osteophyte complex with right-sided uncovertebral and apophyseal joint arthrosis. The disc osteophyte complex measures approximately 5mm in its AP dimension. There is minimal posterior annular bulging measuring approximately 2mm. The AP diameter of the central canal has been narrowed to 9mm. CSF remains present surrounding the cord. There is probable radicular impingement upon the exiting right C5 nerve root. At C5-6 there is disc desiccation, moderate loss of disc space height with a posterior central disc herniation of the protrusion type. The disc protrusion measures approximately 3 x 8mm (AP x transverse) in size. There is ventral thecal sac flattening with effacement of the circumferential CSF cleft. The residual AP diameter of the central canal has been narrowed to 7mm. Findings indicate a loss of the functional reserve of the central canal but there is no cord edema. There is bilateral uncovertebral and apophyseal joint arthrosis with moderate foraminal compromise. At C6-7 there is disc desiccation, mild loss of disc space height with 2mm of posterior annular bulging. There is bilateral uncovertebral and apophyseal joint arthrosis (left greater than right) with probable radicular impingement upon the bilateral exiting C7 nerve roots. At C7-T1, T1-2 there is disc desiccation with no disc displacement. Normal central canal and intervertebral neural foramina. At T3-4 there is disc desiccation with minimal 2mm posterior annular bulging but normal central canal and CSF surrounding the cord.
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- Normal foramen magnum.
+- Normal brainstem-cervical cord junction.
+- There is no tonsillar ectopia.
+- Normal clivus and craniovertebral junction.
+- Normal anterior atlantoaxial articulation.
+- Normal central canal and intervertebral neural foramina.
+- Normal central canal and intervertebral neural foramina.
+
+DEGENRATIVE SENTENCES:
+- At C2-3 there is disc desiccation but no loss of disc space height, disc displacement, endplate spondylosis or uncovertebral joint arthrosis.
+    - level: C2-3
+    - anatomy: disc
+    - degeneration: desiccation
+- C3-4 there is disc desiccation with a posterior central disc herniation of the protrusion type.
+    - level: C3-4
+    - anatomy: disc
+    - degeneration: desiccation
+    *****
+    - level: C3-4
+    - anatomy: disc
+    - degeneration: herniation
+- The small posterior central disc protrusion measures 3 x 6mm (AP x transverse) in size and is producing ventral thecal sac flattening.
+    - level: C3-4
+    - anatomy: disc
+    - degeneration: protrusion
+    *****
+    - level: C3-4
+    - anatomy: thecal sac
+    - degeneration: flattening
+- There is minimal right-sided uncovertebral joint arthrosis but no substantial foraminal compromise.
+    - level: C3-4
+    - anatomy: uncovertebral joint
+    - degeneration: arthrosis
+- At C4-5 there is disc desiccation, slight loss of disc space height with a right posterior lateral pre-foraminal disc osteophyte complex with right-sided uncovertebral and apophyseal joint arthrosis.
+    - level: C4-5
+    - anatomy: disc
+    - degeneration: desiccation
+    *****
+    - level: C4-5
+    - anatomy: disc
+    - degeneration: osteophyte complex
+    *****
+    - level: C4-5
+    - anatomy: uncovertebral joint
+    - degeneration: arthrosis
+    *****
+    - level: C4-5
+    - anatomy: apophyseal joint
+    - degeneration: arthrosis
+- There is minimal posterior annular bulging measuring approximately 2mm.
+    - level: C4-5
+    - anatomy: -
+    - degeneration: bulging
+- There is probable radicular impingement upon the exiting right C5 nerve root.
+    - level: C5
+    - anatomy: exiting nerve root
+    - degeneration: impingement
+- At C5-6 there is disc desiccation, moderate loss of disc space height with a posterior central disc herniation of the protrusion type.
+    - level: C5-6
+    - anatomy: disc
+    - degeneration: desiccation
+    *****
+    - level: C5-6
+    - anatomy: disc
+    - degeneration: herniation
+- There is ventral thecal sac flattening with effacement of the circumferential CSF cleft.
+    - level: C5-6
+    - anatomy: thecal sac
+    - degeneration: flattening
+- There is bilateral uncovertebral and apophyseal joint arthrosis with moderate foraminal compromise.
+    - level: C5-6
+    - anatomy: uncovertebral joint
+    - degeneration: arthrosis
+    *****
+    - level: C5-6
+    - anatomy: apophyseal joint
+    - degeneration: arthrosis
+- At C6-7 there is disc desiccation, mild loss of disc space height with 2mm of posterior annular bulging.
+    - level: C6-7
+    - anatomy: disc
+    - degeneration: desiccation
+    *****
+    - level: C6-7
+    - anatomy: -
+    - degeneration: bulging
+- There is bilateral uncovertebral and apophyseal joint arthrosis (left greater than right) with probable radicular impingement upon the bilateral exiting C7 nerve roots.
+    - level: C6-7
+    - anatomy: uncovertebral joint
+    - degeneration: arthrosis
+    *****
+    - level: C6-7
+    - anatomy: apophyseal joint
+    - degeneration: arthrosis
+    *****
+    - level: C7
+    - anatomy: exiting nerve roots
+    - degeneration: impingement
+- At C7-T1, T1-2 there is disc desiccation with no disc displacement.
+    - level: C7-T1, T1-2
+    - anatomy: disc
+    - degeneration: desiccation
+- At T3-4 there is disc desiccation with minimal 2mm posterior annular bulging but normal central canal and CSF surrounding the cord.
+    - level: T3-4
+    - anatomy: disc
+    - degeneration: desiccation
+    *****
+    - level: T3-4
+    - anatomy: -
+    - degeneration: bulging

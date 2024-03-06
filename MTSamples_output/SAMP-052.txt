@@ -1,0 +1,87 @@
+SAMP-052
+
+FINDING: There is some scoliosis. There is slight reversal of the normal curvature of the lumbar spine involving upper lumbar spine. The conus is normal in location and signal intensity. There is some slight decreased signal involving L4, L5, and the sacrum on T1. An infiltrative-type process is not excluded. At L5-S1, there is a disk bulge and posterior facet degenerative changes that in combination causes some bilateral neural foraminal narrowing, worse on the left than the right. At L4-5, there is some trilateral narrowing due to bulging disk, posterior facet degenerative changes, and thickening of the ligamentum flavum. At L3-4, there is some trilateral narrowing due to a combination of thickening of ligamentum flavum, posterior facet degenerative changes, and disk bulge. At L2-3, there is also some trilateral narrowing. At L1-2, there is a mild disk bulge and posterior facet degenerative changes. Neural foramina are slightly narrowed at this level.
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- The conus is normal in location and signal intensity.
+
+DEGENRATIVE SENTENCES:
+- There is some scoliosis.
+    - level: -
+    - anatomy: -
+    - degeneration: scoliosis
+- There is slight reversal of the normal curvature of the lumbar spine involving upper lumbar spine.
+    - level: upper lumbar
+    - anatomy: -
+    - degeneration: reversal of normal curvature
+- There is some slight decreased signal involving L4, L5, and the sacrum on T1.
+    - level: L4, L5, sacrum
+    - anatomy: -
+    - degeneration: decreased signal on T1
+- An infiltrative-type process is not excluded.
+    - level: L4, L5, sacrum
+    - anatomy: -
+    - degeneration: infiltrative-type process
+- At L5-S1, there is a disk bulge and posterior facet degenerative changes that in combination causes some bilateral neural foraminal narrowing, worse on the left than the right.
+    - level: L5-S1
+    - anatomy: disk
+    - degeneration: bulge
+    *****
+    - level: L5-S1
+    - anatomy: facet
+    - degeneration: degenerative changes
+    *****
+    - level: L5-S1
+    - anatomy: neural foramina
+    - degeneration: narrowing
+- At L4-5, there is some trilateral narrowing due to bulging disk, posterior facet degenerative changes, and thickening of the ligamentum flavum.
+    - level: L4-5
+    - anatomy: disk
+    - degeneration: bulge
+    *****
+    - level: L4-5
+    - anatomy: facet
+    - degeneration: degenerative changes
+    *****
+    - level: L4-5
+    - anatomy: ligamentum flavum
+    - degeneration: thickening
+    *****
+    - level: L4-5
+    - anatomy: -
+    - degeneration: trilateral narrowing
+- At L3-4, there is some trilateral narrowing due to a combination of thickening of ligamentum flavum, posterior facet degenerative changes, and disk bulge.
+    - level: L3-4
+    - anatomy: ligamentum flavum
+    - degeneration: thickening
+    *****
+    - level: L3-4
+    - anatomy: facet
+    - degeneration: degenerative changes
+    *****
+    - level: L3-4
+    - anatomy: disk
+    - degeneration: bulge
+    *****
+    - level: L3-4
+    - anatomy: -
+    - degeneration: trilateral narrowing
+- At L2-3, there is also some trilateral narrowing.
+    - level: L2-3
+    - anatomy: -
+    - degeneration: trilateral narrowing
+- At L1-2, there is a mild disk bulge and posterior facet degenerative changes.
+    - level: L1-2
+    - anatomy: disk
+    - degeneration: bulge
+    *****
+    - level: L1-2
+    - anatomy: facet
+    - degeneration: degenerative changes
+- Neural foramina are slightly narrowed at this level.
+    - level: L1-2
+    - anatomy: neural foramina
+    - degeneration: narrowing

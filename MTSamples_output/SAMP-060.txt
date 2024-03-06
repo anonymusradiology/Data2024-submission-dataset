@@ -1,0 +1,35 @@
+SAMP-060
+
+FINDING: MRI by my view showed essentially unremarkable T spine. The MRI of his C spine showed significant spondylosis in the mid and lower C spine with spondylolisthesis at C7-T1. There is an abnormal signal in the cord which begins at approximately this level, but descends approximately 2 cm. There is slight enhancement at the mid-portion of the lesion. This appears to be an intrinsic lesion to the cord, not clearly associated with mild to moderate spinal stenosis at the level of the spondylolisthesis.
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- MRI by my view showed essentially unremarkable T spine.
+
+DEGENRATIVE SENTENCES:
+- The MRI of his C spine showed significant spondylosis in the mid and lower C spine with spondylolisthesis at C7-T1.
+    - level: mid C spine, lower C spine
+    - anatomy: C spine
+    - degeneration: spondylosis
+    *****
+    - level: C7-T1
+    - anatomy: -
+    - degeneration: spondylolisthesis
+- There is an abnormal signal in the cord which begins at approximately this level, but descends approximately 2 cm.
+    - level: C7-T1
+    - anatomy: cord
+    - degeneration: abnormal signal
+- There is slight enhancement at the mid-portion of the lesion.
+    - level: C7-T1
+    - anatomy: lesion
+    - degeneration: enhancement
+- This appears to be an intrinsic lesion to the cord, not clearly associated with mild to moderate spinal stenosis at the level of the spondylolisthesis.
+    - level: C7-T1
+    - anatomy: cord
+    - degeneration: intrinsic lesion
+    *****
+    - level: C7-T1
+    - anatomy: -
+    - degeneration: spinal stenosis

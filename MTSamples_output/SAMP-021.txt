@@ -1,0 +1,30 @@
+SAMP-021
+
+FINDING: Degenerative disc disease is noted throughout the cervical spine, but is most severe from C4 to C7 inclusive. Marked spur formation is noted to the intervertebral foramina bilaterally at these levels. No fracture or dislocation is identified. The vertebral bodies throughout the thoracic spine have normal height and alignment and the discs are of normal width. The pedicles and neural arches appear intact. Progressive degenerative changes have occurred on the left side between the first and fourth lumbar vertebrae inclusive, slightly increasing the scoliosis convexity towards the right. No fracture is identified.
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- No fracture or dislocation is identified.
+- The vertebral bodies throughout the thoracic spine have normal height and alignment and the discs are of normal width.
+- The pedicles and neural arches appear intact.
+- No fracture is identified.
+
+DEGENRATIVE SENTENCES:
+- Degenerative disc disease is noted throughout the cervical spine, but is most severe from C4 to C7 inclusive.
+    - level: C4, C5, C6, C7
+    - anatomy: disc
+    - degeneration: degenerative disease
+- Marked spur formation is noted to the intervertebral foramina bilaterally at these levels.
+    - level: C4, C5, C6, C7
+    - anatomy: intervertebral foramina
+    - degeneration: spur formation
+- Progressive degenerative changes have occurred on the left side between the first and fourth lumbar vertebrae inclusive, slightly increasing the scoliosis convexity towards the right.
+    - level: L1, L2, L3, L4
+    - anatomy: -
+    - degeneration: degenerative changes
+    *****
+    - level: L1, L2, L3, L4
+    - anatomy: -
+    - degeneration: scoliosis convexity

@@ -1,0 +1,120 @@
+SAMP-037
+
+FINDING: Normal brainstem-cervical cord junction. Normal cisterna magna with no tonsillar ectopia. Normal clivus with a normal craniovertebral junction. Normal anterior atlantoaxial articulation. At C2-3 there is normal intervertebral disc with no spondylosis or uncovertebral joint arthrosis. Normal central canal and intervertebral neural foramina with no cord or radicular impingement. At C3-4 there is disc desiccation with minimal annular bulging. The residual AP diameter of the central canal measures approximately 10mm. CSF remains present surrounding the cord. At C4-5: there is disc desiccation with endplate spondylosis and mild uncovertebral joint arthrosis. The residual AP diameter of the central canal measures approximately 8mm with effacement of the circumferential CSF cleft producing a borderline central canal stenosis but no cord distortion or cord edema. There is minimal uncovertebral joint arthrosis. At C5-6 there is disc desiccation with minimal posterior annular bulging and a right posterolateral preforaminal disc protrusion measuring approximately 2 x 8mm (AP x transverse). The disc protrusion produces minimal rightward ventral thecal sac flattening but no cord impingement. At C6-7 there is disc desiccation with mild loss of disc space height and posterior endplate spondylosis and annular bulging producing central canal stenosis. The residual AP diameter of the central canal measures 8 mm with effacement of the circumferential CSF cleft. There is a left posterolateral disc-osteophyte complex encroaching upon the left intervertebral neural foramen with probable radicular impingement upon the exiting left C7 nerve root. At C7-T1, T1-2 there is minimal disc desiccation with no disc displacement or endplate spondylosis.
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- Normal brainstem-cervical cord junction.
+- Normal cisterna magna with no tonsillar ectopia.
+- Normal clivus with a normal craniovertebral junction.
+- Normal anterior atlantoaxial articulation.
+- At C2-3 there is normal intervertebral disc with no spondylosis or uncovertebral joint arthrosis.
+- Normal central canal and intervertebral neural foramina with no cord or radicular impingement.
+
+DEGENRATIVE SENTENCES:
+- At C3-4 there is disc desiccation with minimal annular bulging.
+    - level: C3-4
+    - anatomy: disc
+    - degeneration: desiccation
+    *****
+    - level: C3-4
+    - anatomy: disc
+    - degeneration: annular bulging
+- The residual AP diameter of the central canal measures approximately 10mm.
+    - level: C3-4
+    - anatomy: central canal
+    - degeneration: residual AP diameter measures approximately 10mm
+- CSF remains present surrounding the cord.
+    - level: C3-4
+    - anatomy: cord
+    - degeneration: CSF remains present surrounding
+- At C4-5: there is disc desiccation with endplate spondylosis and mild uncovertebral joint arthrosis.
+    - level: C4-5
+    - anatomy: disc
+    - degeneration: desiccation
+    *****
+    - level: C4-5
+    - anatomy: endplate
+    - degeneration: spondylosis
+    *****
+    - level: C4-5
+    - anatomy: uncovertebral joint
+    - degeneration: arthrosis
+- The residual AP diameter of the central canal measures approximately 8mm with effacement of the circumferential CSF cleft producing a borderline central canal stenosis but no cord distortion or cord edema.
+    - level: C4-5
+    - anatomy: central canal
+    - degeneration: residual AP diameter measures approximately 8mm
+    *****
+    - level: C4-5
+    - anatomy: central canal
+    - degeneration: effacement of the circumferential CSF cleft
+    *****
+    - level: C4-5
+    - anatomy: central canal
+    - degeneration: borderline stenosis
+- There is minimal uncovertebral joint arthrosis.
+    - level: C4-5
+    - anatomy: uncovertebral joint
+    - degeneration: arthrosis
+- At C5-6 there is disc desiccation with minimal posterior annular bulging and a right posterolateral preforaminal disc protrusion measuring approximately 2 x 8mm (AP x transverse).
+    - level: C5-6
+    - anatomy: disc
+    - degeneration: desiccation
+    *****
+    - level: C5-6
+    - anatomy: disc
+    - degeneration: posterior annular bulging
+    *****
+    - level: C5-6
+    - anatomy: disc
+    - degeneration: right posterolateral preforaminal protrusion
+- The disc protrusion produces minimal rightward ventral thecal sac flattening but no cord impingement.
+    - level: C5-6
+    - anatomy: thecal sac
+    - degeneration: rightward ventral flattening
+- At C6-7 there is disc desiccation with mild loss of disc space height and posterior endplate spondylosis and annular bulging producing central canal stenosis.
+    - level: C6-7
+    - anatomy: disc
+    - degeneration: desiccation
+    *****
+    - level: C6-7
+    - anatomy: disc
+    - degeneration: loss of space height
+    *****
+    - level: C6-7
+    - anatomy: endplate
+    - degeneration: spondylosis
+    *****
+    - level: C6-7
+    - anatomy: disc
+    - degeneration: annular bulging
+    *****
+    - level: C6-7
+    - anatomy: central canal
+    - degeneration: stenosis
+- The residual AP diameter of the central canal measures 8 mm with effacement of the circumferential CSF cleft.
+    - level: C6-7
+    - anatomy: central canal
+    - degeneration: residual AP diameter measures 8 mm
+    *****
+    - level: C6-7
+    - anatomy: central canal
+    - degeneration: effacement of the circumferential CSF cleft
+- There is a left posterolateral disc-osteophyte complex encroaching upon the left intervertebral neural foramen with probable radicular impingement upon the exiting left C7 nerve root.
+    - level: C6-7
+    - anatomy: disc
+    - degeneration: left posterolateral osteophyte complex
+    *****
+    - level: C6-7
+    - anatomy: left intervertebral neural foramen
+    - degeneration: encroaching
+    *****
+    - level: C7
+    - anatomy: exiting left nerve root
+    - degeneration: probable radicular impingement
+- At C7-T1, T1-2 there is minimal disc desiccation with no disc displacement or endplate spondylosis.
+    - level: C7-T1, T1-2
+    - anatomy: disc
+    - degeneration: desiccation

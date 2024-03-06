@@ -1,0 +1,68 @@
+SAMP-041
+
+FINDING: There is minimal curvature of the lumbar spine convex to the left. At T12-L1, L1-2, L2-3 there is normal disc height with no posterior annular disc bulging or protrusion. Normal central canal, intervertebral neural foramina and facet joints. At L3-4 there is normal disc height and non-compressive circumferential annular disc bulging eccentrically greater to the left. Normal central canal and facet joints. At L4-5 there is normal disc height, circumferential annular disc bulging, left L5 hemilaminectomy and posterior central/right paramedian broad-based disc protrusion measuring 4mm (AP) contouring the rightward aspect of the thecal sac. Orthopedic hardware is noted posteriorly at the L5 level. Normal central canal, facet joints and intervertebral neural foramina. At L5-S1 there is minimal decreased disc height, postsurgical change with intervertebral disc spacer, posterior lateral orthopedic hardware with bilateral pedicle screws in good postsurgical position. The orthopedic hardware creates mild streak artifact which mildly degrades images. There is a laminectomy defect, spondylolisthesis with 3.5mm of anterolisthesis of L5, posterior annular disc bulging greatest in the left foraminal region lying adjacent to the exiting left L5 nerve root. There is fusion of the facet joints, normal central canal and right neural foramen. There is no bony destructive change noted. There is no perivertebral soft tissue abnormality. There is minimal to mild arteriosclerotic vascular calcifications noted in the abdominal aorta and right proximal common iliac artery.
+
+EXTRASPINAL SENTENCES:
+- There is minimal to mild arteriosclerotic vascular calcifications noted in the abdominal aorta and right proximal common iliac artery.
+
+NON DEGENRATIVE SENTENCES:
+- At T12-L1, L1-2, L2-3 there is normal disc height with no posterior annular disc bulging or protrusion.
+- Normal central canal, intervertebral neural foramina and facet joints.
+- Normal central canal and facet joints.
+- Normal central canal, facet joints and intervertebral neural foramina.
+- There is no bony destructive change noted.
+- There is no perivertebral soft tissue abnormality.
+
+DEGENRATIVE SENTENCES:
+- There is minimal curvature of the lumbar spine convex to the left.
+    - level: lumbar
+    - anatomy: spine
+    - degeneration: curvature
+- At L3-4 there is normal disc height and non-compressive circumferential annular disc bulging eccentrically greater to the left.
+    - level: L3-4
+    - anatomy: disc
+    - degeneration: bulging
+- At L4-5 there is normal disc height, circumferential annular disc bulging, left L5 hemilaminectomy and posterior central/right paramedian broad-based disc protrusion measuring 4mm (AP) contouring the rightward aspect of the thecal sac.
+    - level: L4-5
+    - anatomy: disc
+    - degeneration: bulging
+    *****
+    - level: L4-5
+    - anatomy: disc
+    - degeneration: protrusion
+- Orthopedic hardware is noted posteriorly at the L5 level.
+    - level: L5
+    - anatomy: -
+    - degeneration: orthopedic hardware
+- At L5-S1 there is minimal decreased disc height, postsurgical change with intervertebral disc spacer, posterior lateral orthopedic hardware with bilateral pedicle screws in good postsurgical position.
+    - level: L5-S1
+    - anatomy: disc
+    - degeneration: decreased height
+    *****
+    - level: L5-S1
+    - anatomy: -
+    - degeneration: postsurgical change
+    *****
+    - level: L5-S1
+    - anatomy: -
+    - degeneration: orthopedic hardware
+- The orthopedic hardware creates mild streak artifact which mildly degrades images.
+    - level: L5-S1
+    - anatomy: -
+    - degeneration: streak artifact
+- There is a laminectomy defect, spondylolisthesis with 3.5mm of anterolisthesis of L5, posterior annular disc bulging greatest in the left foraminal region lying adjacent to the exiting left L5 nerve root.
+    - level: L5
+    - anatomy: -
+    - degeneration: laminectomy defect
+    *****
+    - level: L5
+    - anatomy: -
+    - degeneration: spondylolisthesis
+    *****
+    - level: L5
+    - anatomy: disc
+    - degeneration: bulging
+- There is fusion of the facet joints, normal central canal and right neural foramen.
+    - level: L5
+    - anatomy: facet joints
+    - degeneration: fusion

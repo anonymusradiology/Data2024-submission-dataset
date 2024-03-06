@@ -1,0 +1,20 @@
+SAMP-039
+
+FINDING: There is no evidence for acute fracture or subluxation. There is no spondylolysis or spondylolisthesis. The central canal and neuroforamen are grossly patent at all levels. There are no abnormal paraspinal masses. There is no wedge/compression deformity. There is intervertebral disk space narrowing to a mild degree at L2-3 and L4-5. Soft tissue windows demonstrate atherosclerotic calcification of the abdominal aorta, which is not dilated. There was incompletely visualized probable simple left renal cyst, exophytic at the lower pole.
+
+EXTRASPINAL SENTENCES:
+- Soft tissue windows demonstrate atherosclerotic calcification of the abdominal aorta, which is not dilated.
+- There was incompletely visualized probable simple left renal cyst, exophytic at the lower pole.
+
+NON DEGENRATIVE SENTENCES:
+- There is no evidence for acute fracture or subluxation.
+- There is no spondylolysis or spondylolisthesis.
+- The central canal and neuroforamen are grossly patent at all levels.
+- There are no abnormal paraspinal masses.
+- There is no wedge/compression deformity.
+
+DEGENRATIVE SENTENCES:
+- There is intervertebral disk space narrowing to a mild degree at L2-3 and L4-5.
+    - level: L2-3, L4-5
+    - anatomy: intervertebral disk space
+    - degeneration: narrowing

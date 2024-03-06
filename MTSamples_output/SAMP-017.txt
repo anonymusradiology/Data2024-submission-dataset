@@ -1,0 +1,108 @@
+SAMP-017
+
+FINDING: There is straightening of the normal cervical lordosis which may be positional or related to muscular spasm. There is moderate to severe disc space narrowing from C4-5 through C6-7 with prominent prevertebral spondylosis. Spinal cord is normal in caliber and signal intensity. Cerebellar tonsils are normally located. No destructive bony lesions. There is low T1 signal intensity within the bone marrow surrounding the left C4-5 facet joint which may be reactive to facet arthropathy. At C2-3 there is no disc osteophyte complex, spinal canal stenosis, or neural foraminal narrowing. At C3-4 there is a focal 1-2 mm central disc protrusion and mild right uncovertebral joint hypertrophy with deformity of the ventral thecal sac with a mild spinal canal stenosis. No significant neural foraminal narrowing. At C4-5 there is a diffuse disc osteophyte more prominent on the left and left facet arthropathy with flattening of the ventral thecal sac with a mild spinal canal stenosis and moderate right and moderate to severe left neural foraminal narrowing. At C5-6 there is a diffuse disc osteophyte more prominent on the right and mild bilateral facet joint hypertrophy with flattening of the ventral thecal sac with a mild spinal canal stenosis and moderate to severe right and mild left neural foraminal narrowing. At C6-7 there is a diffuse disc osteophyte which results in flattening of the ventral thecal sac with a mild spinal canal stenosis and moderate to severe bilateral neural foraminal narrowing. At C7-T1 there is no disc osteophyte complex, spinal canal stenosis, or neural foraminal narrowing. No paraspinal soft tissue mass.
+
+EXTRASPINAL SENTENCES:
+- Cerebellar tonsils are normally located.
+
+NON DEGENRATIVE SENTENCES:
+- Spinal cord is normal in caliber and signal intensity.
+- No destructive bony lesions.
+- At C2-3 there is no disc osteophyte complex, spinal canal stenosis, or neural foraminal narrowing.
+- No significant neural foraminal narrowing.
+- At C7-T1 there is no disc osteophyte complex, spinal canal stenosis, or neural foraminal narrowing.
+- No paraspinal soft tissue mass.
+
+DEGENRATIVE SENTENCES:
+- There is straightening of the normal cervical lordosis which may be positional or related to muscular spasm.
+    - level: cervical
+    - anatomy: -
+    - degeneration: straightening of lordosis
+- There is moderate to severe disc space narrowing from C4-5 through C6-7 with prominent prevertebral spondylosis.
+    - level: C4-5, C5-6, C6-7
+    - anatomy: disc space
+    - degeneration: narrowing
+    *****
+    - level: C4-5, C5-6, C6-7
+    - anatomy: prevertebral
+    - degeneration: spondylosis
+- There is low T1 signal intensity within the bone marrow surrounding the left C4-5 facet joint which may be reactive to facet arthropathy.
+    - level: C4-5
+    - anatomy: facet joint
+    - degeneration: low T1 signal intensity
+    *****
+    - level: C4-5
+    - anatomy: facet joint
+    - degeneration: arthropathy
+- At C3-4 there is a focal 1-2 mm central disc protrusion and mild right uncovertebral joint hypertrophy with deformity of the ventral thecal sac with a mild spinal canal stenosis.
+    - level: C3-4
+    - anatomy: disc
+    - degeneration: 1-2 mm central protrusion
+    *****
+    - level: C3-4
+    - anatomy: uncovertebral joint
+    - degeneration: hypertrophy
+    *****
+    - level: C3-4
+    - anatomy: thecal sac
+    - degeneration: deformity
+    *****
+    - level: C3-4
+    - anatomy: spinal canal
+    - degeneration: stenosis
+- At C4-5 there is a diffuse disc osteophyte more prominent on the left and left facet arthropathy with flattening of the ventral thecal sac with a mild spinal canal stenosis and moderate right and moderate to severe left neural foraminal narrowing.
+    - level: C4-5
+    - anatomy: disc
+    - degeneration: osteophyte
+    *****
+    - level: C4-5
+    - anatomy: facet
+    - degeneration: arthropathy
+    *****
+    - level: C4-5
+    - anatomy: thecal sac
+    - degeneration: flattening
+    *****
+    - level: C4-5
+    - anatomy: spinal canal
+    - degeneration: stenosis
+    *****
+    - level: C4-5
+    - anatomy: neural foramen
+    - degeneration: narrowing
+- At C5-6 there is a diffuse disc osteophyte more prominent on the right and mild bilateral facet joint hypertrophy with flattening of the ventral thecal sac with a mild spinal canal stenosis and moderate to severe right and mild left neural foraminal narrowing.
+    - level: C5-6
+    - anatomy: disc
+    - degeneration: osteophyte
+    *****
+    - level: C5-6
+    - anatomy: facet joint
+    - degeneration: hypertrophy
+    *****
+    - level: C5-6
+    - anatomy: thecal sac
+    - degeneration: flattening
+    *****
+    - level: C5-6
+    - anatomy: spinal canal
+    - degeneration: stenosis
+    *****
+    - level: C5-6
+    - anatomy: neural foramen
+    - degeneration: narrowing
+- At C6-7 there is a diffuse disc osteophyte which results in flattening of the ventral thecal sac with a mild spinal canal stenosis and moderate to severe bilateral neural foraminal narrowing.
+    - level: C6-7
+    - anatomy: disc
+    - degeneration: osteophyte
+    *****
+    - level: C6-7
+    - anatomy: thecal sac
+    - degeneration: flattening
+    *****
+    - level: C6-7
+    - anatomy: spinal canal
+    - degeneration: stenosis
+    *****
+    - level: C6-7
+    - anatomy: neural foramen
+    - degeneration: narrowing

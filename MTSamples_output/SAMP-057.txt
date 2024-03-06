@@ -1,0 +1,16 @@
+SAMP-057
+
+FINDING: The cervical spine demonstrates normal alignment and mineralization with no evidence of fracture, dislocation, or spondylolisthesis. The vertebral body heights and disc spaces are maintained. The central canal is patent. The pedicles and posterior elements are intact. The paravertebral soft tissues are within normal limits. The atlanto-dens interval and the dens are intact. The visualized lung apices are clear.
+
+EXTRASPINAL SENTENCES:
+- The visualized lung apices are clear.
+
+NON DEGENRATIVE SENTENCES:
+- The cervical spine demonstrates normal alignment and mineralization with no evidence of fracture, dislocation, or spondylolisthesis.
+- The vertebral body heights and disc spaces are maintained.
+- The central canal is patent.
+- The pedicles and posterior elements are intact.
+- The paravertebral soft tissues are within normal limits.
+- The atlanto-dens interval and the dens are intact.
+
+DEGENRATIVE SENTENCES:

@@ -1,0 +1,171 @@
+SAMP-016
+
+FINDING: There is a transitional anatomy with lumbarization of what is designated as the S1 vertebral body with an intervertebral disc at S1-S2. Using this counting designation the last well-formed ribs are at T12 and the conus medullaris ends at L1-L2. There is disc desiccation with moderate disc space narrowing from L1-2 through L5-S1 with prevertebral spondylosis. There a few small Schmorl's nodes identified. Vertebral body heights are otherwise well-maintained without compression fracture. There is no significant bone marrow edema or destructive bony lesions identified. There is diffuse congenital narrowing of the lumbar spinal canal. Note is made of a well-circumscribed 1.6 cm T2 hyperintense lesion within the superior pole of the left kidney, most likely representing a renal cyst. At the T12-L1 level there is no disc bulge, disc protrusion, spinal canal stenosis, or neural foraminal narrowing. At the L1-2 level there is a mild diffuse disc bulge which results in mild right subarticular recess narrowing without spinal canal or neural foraminal stenosis. At L2-3 there is a moderate diffuse disc bulge which results in a mild spinal canal stenosis and mild right and mild to moderate left subarticular recess narrowing with encroachment on the descending left L3 nerve root. There is mild bilateral inferior neural foraminal narrowing. At L3-4 there is a moderate diffuse disc bulge and mild facet joint and ligamentum flavum hypertrophy with a mild to moderate spinal canal stenosis and bilateral subarticular recess narrowing with encroachment on the descending bilateral L4 nerve roots. There is mild bilateral inferior neural foraminal narrowing. At L4-5 there is a moderate diffuse disc bulge with osteophytic ridging and mild to moderate facet joint and ligamentum flavum hypertrophy with a mild to moderate spinal canal stenosis and mild bilateral subarticular recess narrowing. There is mild right and mild to moderate left inferior neural foraminal narrowing with subtle contact of the exiting left L4 nerve root by the disc osteophyte. At L5-S1 there is a diffuse disc osteophyte with a broad-based 3 mm right central disc protrusion with annular tearing and mild facet arthropathy and ligamentum flavum thickening with moderate right and mild left subarticular recess narrowing with mass effect on the descending right S1 nerve root, a mild spinal canal stenosis, and mild to moderate bilateral neural foraminal narrowing with contact of the exiting L5 nerve roots by the disc osteophyte. No paraspinal soft tissue mass is identified.
+
+EXTRASPINAL SENTENCES:
+- Note is made of a well-circumscribed 1.6 cm T2 hyperintense lesion within the superior pole of the left kidney, most likely representing a renal cyst.
+
+NON DEGENRATIVE SENTENCES:
+- Using this counting designation the last well-formed ribs are at T12 and the conus medullaris ends at L1-L2.
+- Vertebral body heights are otherwise well-maintained without compression fracture.
+- There is no significant bone marrow edema or destructive bony lesions identified.
+- At the T12-L1 level there is no disc bulge, disc protrusion, spinal canal stenosis, or neural foraminal narrowing.
+- No paraspinal soft tissue mass is identified.
+
+DEGENRATIVE SENTENCES:
+- There is a transitional anatomy with lumbarization of what is designated as the S1 vertebral body with an intervertebral disc at S1-S2.
+    - level: S1-S2
+    - anatomy: vertebral body
+    - degeneration: lumbarization
+    *****
+    - level: S1-S2
+    - anatomy: intervertebral disc
+    - degeneration: -
+- There is disc desiccation with moderate disc space narrowing from L1-2 through L5-S1 with prevertebral spondylosis.
+    - level: L1-2, L2-3, L3-4, L4-5, L5-S1
+    - anatomy: disc
+    - degeneration: desiccation
+    *****
+    - level: L1-2, L2-3, L3-4, L4-5, L5-S1
+    - anatomy: disc space
+    - degeneration: narrowing
+    *****
+    - level: L1-2, L2-3, L3-4, L4-5, L5-S1
+    - anatomy: prevertebral
+    - degeneration: spondylosis
+- There a few small Schmorl's nodes identified.
+    - level: L1-2, L2-3, L3-4, L4-5, L5-S1
+    - anatomy: -
+    - degeneration: Schmorl's nodes
+- There is diffuse congenital narrowing of the lumbar spinal canal.
+    - level: lumbar
+    - anatomy: spinal canal
+    - degeneration: congenital narrowing
+- At L1-2 level there is a mild diffuse disc bulge which results in mild right subarticular recess narrowing without spinal canal or neural foraminal stenosis.
+    - level: L1-2
+    - anatomy: disc
+    - degeneration: bulge
+    *****
+    - level: L1-2
+    - anatomy: subarticular recess
+    - degeneration: narrowing
+- At L2-3 there is a moderate diffuse disc bulge which results in a mild spinal canal stenosis and mild right and mild to moderate left subarticular recess narrowing with encroachment on the descending left L3 nerve root.
+    - level: L2-3
+    - anatomy: disc
+    - degeneration: bulge
+    *****
+    - level: L2-3
+    - anatomy: spinal canal
+    - degeneration: stenosis
+    *****
+    - level: L2-3
+    - anatomy: subarticular recess
+    - degeneration: narrowing
+    *****
+    - level: L2-3
+    - anatomy: descending L3 nerve root
+    - degeneration: encroachment
+- There is mild bilateral inferior neural foraminal narrowing.
+    - level: L2-3
+    - anatomy: neural foramen
+    - degeneration: narrowing
+- At L3-4 there is a moderate diffuse disc bulge and mild facet joint and ligamentum flavum hypertrophy with a mild to moderate spinal canal stenosis and bilateral subarticular recess narrowing with encroachment on the descending bilateral L4 nerve roots.
+    - level: L3-4
+    - anatomy: disc
+    - degeneration: bulge
+    *****
+    - level: L3-4
+    - anatomy: facet joint
+    - degeneration: hypertrophy
+    *****
+    - level: L3-4
+    - anatomy: ligamentum flavum
+    - degeneration: hypertrophy
+    *****
+    - level: L3-4
+    - anatomy: spinal canal
+    - degeneration: stenosis
+    *****
+    - level: L3-4
+    - anatomy: subarticular recess
+    - degeneration: narrowing
+    *****
+    - level: L3-4
+    - anatomy: descending L4 nerve roots
+    - degeneration: encroachment
+- There is mild bilateral inferior neural foraminal narrowing.
+    - level: L3-4
+    - anatomy: neural foramen
+    - degeneration: narrowing
+- At L4-5 there is a moderate diffuse disc bulge with osteophytic ridging and mild to moderate facet joint and ligamentum flavum hypertrophy with a mild to moderate spinal canal stenosis and mild bilateral subarticular recess narrowing.
+    - level: L4-5
+    - anatomy: disc
+    - degeneration: bulge
+    *****
+    - level: L4-5
+    - anatomy: disc
+    - degeneration: osteophytic ridging
+    *****
+    - level: L4-5
+    - anatomy: facet joint
+    - degeneration: hypertrophy
+    *****
+    - level: L4-5
+    - anatomy: ligamentum flavum
+    - degeneration: hypertrophy
+    *****
+    - level: L4-5
+    - anatomy: spinal canal
+    - degeneration: stenosis
+    *****
+    - level: L4-5
+    - anatomy: subarticular recess
+    - degeneration: narrowing
+- There is mild right and mild to moderate left inferior neural foraminal narrowing with subtle contact of the exiting left L4 nerve root by the disc osteophyte.
+    - level: L4-5
+    - anatomy: neural foramen
+    - degeneration: narrowing
+    *****
+    - level: L4-5
+    - anatomy: exiting L4 nerve root
+    - degeneration: contact
+- At L5-S1 there is a diffuse disc osteophyte with a broad-based 3 mm right central disc protrusion with annular tearing and mild facet arthropathy and ligamentum flavum thickening with moderate right and mild left subarticular recess narrowing with mass effect on the descending right S1 nerve root, a mild spinal canal stenosis, and mild to moderate bilateral neural foraminal narrowing with contact of the exiting L5 nerve roots by the disc osteophyte.
+    - level: L5-S1
+    - anatomy: disc
+    - degeneration: osteophyte
+    *****
+    - level: L5-S1
+    - anatomy: disc
+    - degeneration: protrusion
+    *****
+    - level: L5-S1
+    - anatomy: disc
+    - degeneration: annular tearing 
+    *****
+    - level: L5-S1
+    - anatomy: facet
+    - degeneration: arthropathy
+    *****
+    - level: L5-S1
+    - anatomy: ligamentum flavum
+    - degeneration: thickening
+    *****
+    - level: L5-S1
+    - anatomy: subarticular recess  
+    - degeneration: narrowing
+    *****
+    - level: L5-S1
+    - anatomy: descending S1 nerve root 
+    - degeneration: mass effect
+    *****
+    - level: L5-S1
+    - anatomy: spinal canal
+    - degeneration: stenosis
+    *****
+    - level: L5-S1
+    - anatomy: neural foramen
+    - degeneration: narrowing
+    *****
+    - level: L5-S1
+    - anatomy: exiting L5 nerve roots  
+    - degeneration: contact

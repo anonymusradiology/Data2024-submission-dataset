@@ -1,0 +1,24 @@
+SAMP-061
+
+FINDING: The thoracic spine was examined in the AP, lateral and swimmer's projections. There is mild chronic-appearing anterior wedging of what is believed to represent T11 and 12 vertebral bodies. A mild amount of anterior osteophytic lipping is seen involving the thoracic spine. There is a suggestion of generalized osteoporosis. The intervertebral disc spaces appear generally well preserved.
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- The intervertebral disc spaces appear generally well preserved.
+- The thoracic spine was examined in the AP, lateral and swimmer's projections.
+
+DEGENRATIVE SENTENCES:
+- There is mild chronic-appearing anterior wedging of what is believed to represent T11 and 12 vertebral bodies.
+    - level: T11, T12
+    - anatomy: vertebral bodies
+    - degeneration: anterior wedging
+- A mild amount of anterior osteophytic lipping is seen involving the thoracic spine.
+    - level: thoracic
+    - anatomy: -
+    - degeneration: osteophytic lipping
+- There is a suggestion of generalized osteoporosis.
+    - level: thoracic
+    - anatomy: -
+    - degeneration: osteoporosis

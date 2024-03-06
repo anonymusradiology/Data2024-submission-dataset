@@ -1,0 +1,84 @@
+SAMP-006
+
+FINDING: No prior exams. Normal marrow stores are seen in the visualized osseous elements. The vertebral bodies are normal in height and alignment and normal cervical lordosis is seen. The craniovertebral junction is unremarkable. Disc desiccation is noted at all levels visualized in the cervical and upper thoracic spine. There is loss of disc height at C5-C6 and to a lesser degree at C6-C7. A small rounded focal lesion is seen in the leftward inferior end plate of T3 which measures 7 mm with signal intensity cost with fat. C2-C3 shows no disc herniation or bulging. No canal or foraminal stenosis. C3-C4 shows no disc herniation or bulging. No canal or foraminal stenosis. C4-C5 shows no disc herniation or bulging. No canal or foraminal stenosis. Mild right facet hypertrophy is noted. At C5-C6 level broad based mixed protrusion is seen which extends into the foramina and is slightly prominent left paracentrally. It results in ventral thecal sac effacement and there is slight flattening suggested of the leftward ventral aspect of the cord. In conjunction with uncovertebral joint spurring and facet hypertrophy there is moderate to severe bilateral foraminal stenosis. Mild central canal stenosis is noted. C6-C7 shows mild posterior disc bulging with uncovertebral joint spurring and facet hypertrophy resulting in mild bilateral foraminal stenosis. C7-T1 shows no disc herniation or bulging. No canal or foraminal stenosis. Apart from the slight mass effect upon the leftward cord at C5-C6, the spinal cord is normal in course, caliber, and signal intensity.
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- No prior exams.
+- Normal marrow stores are seen in the visualized osseous elements.
+- The vertebral bodies are normal in height and alignment and normal cervical lordosis is seen.
+- The craniovertebral junction is unremarkable.
+- C2-C3 shows no disc herniation or bulging. 
+- No canal or foraminal stenosis.
+- C3-C4 shows no disc herniation or bulging. 
+- No canal or foraminal stenosis.
+- C7-T1 shows no disc herniation or bulging. 
+- No canal or foraminal stenosis.
+
+DEGENRATIVE SENTENCES:
+- Disc desiccation is noted at all levels visualized in the cervical and upper thoracic spine.
+    - level: cervical, upper thoracic
+    - anatomy: disc
+    - degeneration: desiccation
+- There is loss of disc height at C5-C6 and to a lesser degree at C6-C7.
+    - level: C5-C6, C6-C7
+    - anatomy: disc
+    - degeneration: loss of height
+- A small rounded focal lesion is seen in the leftward inferior end plate of T3 which measures 7 mm with signal intensity cost with fat.
+    - level: T3
+    - anatomy: leftward inferior end plate
+    - degeneration: small rounded focal lesion
+- C4-C5 shows no disc herniation or bulging. No canal or foraminal stenosis. Mild right facet hypertrophy is noted.
+    - level: C4-C5
+    - anatomy: facet
+    - degeneration: hypertrophy
+- At C5-C6 level broad based mixed protrusion is seen which extends into the foramina and is slightly prominent left paracentrally.
+    - level: C5-C6
+    - anatomy: -
+    - degeneration: broad based mixed protrusion
+- It results in ventral thecal sac effacement and there is slight flattening suggested of the leftward ventral aspect of the cord.
+    - level: C5-C6
+    - anatomy: thecal sac
+    - degeneration: effacement
+    *****
+    - level: C5-C6
+    - anatomy: cord
+    - degeneration: flattening
+- In conjunction with uncovertebral joint spurring and facet hypertrophy there is moderate to severe bilateral foraminal stenosis.
+    - level: C5-C6
+    - anatomy: uncovertebral joint
+    - degeneration: spurring
+    *****
+    - level: C5-C6
+    - anatomy: facet
+    - degeneration: hypertrophy
+    *****
+    - level: C5-C6
+    - anatomy: foraminal
+    - degeneration: stenosis
+- Mild central canal stenosis is noted.
+    - level: C5-C6
+    - anatomy: central canal
+    - degeneration: stenosis
+- C6-C7 shows mild posterior disc bulging with uncovertebral joint spurring and facet hypertrophy resulting in mild bilateral foraminal stenosis.
+    - level: C6-C7
+    - anatomy: disc
+    - degeneration: bulging
+    *****
+    - level: C6-C7
+    - anatomy: uncovertebral joint
+    - degeneration: spurring
+    *****
+    - level: C6-C7
+    - anatomy: facet
+    - degeneration: hypertrophy
+    *****
+    - level: C6-C7
+    - anatomy: foraminal
+    - degeneration: stenosis
+- Apart from the slight mass effect upon the leftward cord at C5-C6, the spinal cord is normal in course, caliber, and signal intensity.
+    - level: C5-C6
+    - anatomy: cord
+    - degeneration: mass effect

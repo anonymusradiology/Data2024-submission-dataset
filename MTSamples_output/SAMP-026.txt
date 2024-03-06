@@ -1,0 +1,21 @@
+SAMP-026
+
+FINDING: MRI examination of the lumbar spine is performed using the following protocol: T1 weighted and T2 weighted axial and sagittal sequences. The lumbar vertebral alignment is well maintained. The vertebral body heights and disc spaces are well maintained. Normal T2 hyperintensities are seen within all the discs in the lumbar spine. Axial scans are done from disc space level L2-L3 through L5-S1. At disc space levels L4-L5 and L5-S1, there are very minimal diffuse disc bulges. There is no focal disc herniation, canal stenosis or foraminal narrowing seen at any of the levels in the lumbar spine.
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- The lumbar vertebral alignment is well maintained.
+- The vertebral body heights and disc spaces are well maintained.
+- There is no focal disc herniation, canal stenosis or foraminal narrowing seen at any of the levels in the lumbar spine.
+
+DEGENRATIVE SENTENCES:
+- Normal T2 hyperintensities are seen within all the discs in the lumbar spine.
+    - level: L1, L2, L3, L4, L5
+    - anatomy: disc
+    - degeneration: T2 hyperintensities
+- At disc space levels L4-L5 and L5-S1, there are very minimal diffuse disc bulges.
+    - level: L4-L5, L5-S1
+    - anatomy: disc
+    - degeneration: diffuse bulges

@@ -1,0 +1,51 @@
+SAMP-008
+
+FINDING: Radiographic examination of the spine by means of AP thoracic, lateral thoracic, APOM, AP lower cervical, neutral lateral cervical, cervical flexion and extension and left and right cervical oblique projections reveals the cervical spine to be hypolordotic with a moderate restriction of extension and a mild restriction of flexion. A right cervicothoracic convexity is noted apexing at C5-C6. Right head tilt is present. Bony hypertrophic changes are identified at the anterior C5 and C6 vertebral margins. There is right-sided intervertebral foraminal encroachment at C5-C6 secondary to von Lushka joint and facet hypertrophy at the same level. The atlantodental interval is within normal limits. Anterior vertebral body height is well maintained. The disk spaces are well-preserved. Radiolucent clefts are present at the C5-C6 and C6-C7 disk spaces. The prevertebral soft tissue spaces are unremarkable. Midthoracic Schmorl’s nodes are noted.
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- Right head tilt is present.
+- The atlantodental interval is within normal limits.
+- Anterior vertebral body height is well maintained.
+- The disk spaces are well-preserved.
+- The prevertebral soft tissue spaces are unremarkable.
+
+DEGENRATIVE SENTENCES:
+- Radiographic examination of the spine by means of AP thoracic, lateral thoracic, APOM, AP lower cervical, neutral lateral cervical, cervical flexion and extension and left and right cervical oblique projections reveals the cervical spine to be hypolordotic with a moderate restriction of extension and a mild restriction of flexion.
+    - level: cervical
+    - anatomy: -
+    - degeneration: hypolordotic
+    *****
+    - level: cervical
+    - anatomy: -
+    - degeneration: moderate restriction of extension
+    *****
+    - level: cervical
+    - anatomy: -
+    - degeneration: mild restriction of flexion
+- A right cervicothoracic convexity is noted apexing at C5-C6.
+    - level: C5-C6
+    - anatomy: -
+    - degeneration: cervicothoracic convexity
+- Bony hypertrophic changes are identified at the anterior C5 and C6 vertebral margins.
+    - level: C5, C6
+    - anatomy: vertebral margins
+    - degeneration: bony hypertrophic changes
+- There is right-sided intervertebral foraminal encroachment at C5-C6 secondary to von Lushka joint and facet hypertrophy at the same level.
+    - level: C5-C6
+    - anatomy: intervertebral foramen
+    - degeneration: encroachment
+    *****
+    - level: C5-C6
+    - anatomy: von Lushka joint, facet
+    - degeneration: hypertrophy
+- Radiolucent clefts are present at the C5-C6 and C6-C7 disk spaces.
+    - level: C5-C6, C6-C7
+    - anatomy: disk spaces
+    - degeneration: radiolucent clefts
+- Midthoracic Schmorl’s nodes are noted.
+    - level: midthoracic
+    - anatomy: -
+    - degeneration: Schmorl’s nodes

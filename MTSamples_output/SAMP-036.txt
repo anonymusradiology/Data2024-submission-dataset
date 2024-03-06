@@ -1,0 +1,52 @@
+SAMP-036
+
+FINDING: Vertebral alignment and bone marrow signal characteristics are unremarkable. The C2-3 and C3-4 disk levels appear unremarkable. At C4-5, broad based disk/osteophyte contacts the ventral surface of the spinal cord and may mildly indent the cord contour. A discrete cord signal abnormality is not identified. There may also be some narrowing of the neuroforamina at this level. At C5-6, central disk-osteophyte contacts and mildly impresses on the ventral cord contour. Distinct neuroforaminal narrowing is not evident. At C6-7, mild diffuse disk-osteophyte impresses on the ventral thecal sac and contacts the ventral cord surface. Distinct cord compression is not evident. There may be mild narrowing of the neuroforamina at his level. A specific abnormality is not identified at the C7-T1 level.
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- Vertebral alignment and bone marrow signal characteristics are unremarkable.
+- The C2-3 and C3-4 disk levels appear unremarkable.
+- A discrete cord signal abnormality is not identified.
+- Distinct neuroforaminal narrowing is not evident.
+- Distinct cord compression is not evident.
+- A specific abnormality is not identified at the C7-T1 level.
+
+DEGENRATIVE SENTENCES:
+- At C4-5, broad based disk/osteophyte contacts the ventral surface of the spinal cord and may mildly indent the cord contour.
+    - level: C4-5
+    - anatomy: disk
+    - degeneration: osteophyte
+    *****
+    - level: C4-5
+    - anatomy: cord
+    - degeneration: indent
+- There may also be some narrowing of the neuroforamina at this level.
+    - level: C4-5
+    - anatomy: neuroforamina
+    - degeneration: narrowing
+- At C5-6, central disk-osteophyte contacts and mildly impresses on the ventral cord contour.
+    - level: C5-6
+    - anatomy: disk
+    - degeneration: osteophyte
+    *****
+    - level: C5-6
+    - anatomy: cord
+    - degeneration: impresses
+- At C6-7, mild diffuse disk-osteophyte impresses on the ventral thecal sac and contacts the ventral cord surface.
+    - level: C6-7
+    - anatomy: disk
+    - degeneration: osteophyte
+    *****
+    - level: C6-7
+    - anatomy: thecal sac
+    - degeneration: impresses
+    *****
+    - level: C6-7
+    - anatomy: cord
+    - degeneration: contacts
+- There may be mild narrowing of the neuroforamina at his level.
+    - level: C6-7
+    - anatomy: neuroforamina
+    - degeneration: narrowing

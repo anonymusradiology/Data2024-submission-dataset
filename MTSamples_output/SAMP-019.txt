@@ -1,0 +1,62 @@
+SAMP-019
+
+FINDING: Sagittal images indicate multilevel changes primarily affecting the T9-T10, T8-T9, T7-8 and T6-T7 levels. Review of the earlier examination has been made. The addition of the contrast highlights postoperative changes involving the posterior elements through these levels. Detail is more exquisite with the addition of contrast. At T9-T10 there remains a large central-to-right side disc herniation serving to efface the thecal sac. I would estimate this to represent a severe stenosis as a result of the epidural compromise from the remaining disc. These findings, I believe, are also confirmed on the sagittal images. At T8-T9 there are similar findings with epidural compromise as a result of the large disc protrusion, central and to the left. As a result, the remaining thecal sac appears effaced and displaced to the right side. At T7-T8 the findings again demonstrate disc protrusion, central and to the left side. Cord does not show any significant effacement or displacement at this level. At T6-T7 there is large disc protrusion, central and to the right. As a result, the cord shows slight displacement to the left side. No significant effacement of the cord however.
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- Sagittal images indicate multilevel changes primarily affecting the T9-T10, T8-T9, T7-8 and T6-T7 levels.
+- Review of the earlier examination has been made.
+- Detail is more exquisite with the addition of contrast.
+- These findings, I believe, are also confirmed on the sagittal images.
+
+DEGENRATIVE SENTENCES:
+- The addition of the contrast highlights postoperative changes involving the posterior elements through these levels.
+    - level: T9-T10, T8-T9, T7-8, T6-T7
+    - anatomy: posterior elements
+    - degeneration: postoperative changes
+- At T9-T10 there remains a large central-to-right side disc herniation serving to efface the thecal sac.
+    - level: T9-T10
+    - anatomy: disc
+    - degeneration: herniation
+    *****
+    - level: T9-T10
+    - anatomy: thecal sac
+    - degeneration: efface
+- I would estimate this to represent a severe stenosis as a result of the epidural compromise from the remaining disc.
+    - level: T9-T10
+    - anatomy: disc
+    - degeneration: stenosis
+- At T8-T9 there are similar findings with epidural compromise as a result of the large disc protrusion, central and to the left.
+    - level: T8-T9
+    - anatomy: disc
+    - degeneration: protrusion
+- As a result, the remaining thecal sac appears effaced and displaced to the right side.
+    - level: T8-T9
+    - anatomy: thecal sac
+    - degeneration: effaced
+    *****
+    - level: T8-T9
+    - anatomy: thecal sac
+    - degeneration: displaced
+- At T7-T8 the findings again demonstrate disc protrusion, central and to the left side.
+    - level: T7-T8
+    - anatomy: disc
+    - degeneration: protrusion
+- Cord does not show any significant effacement or displacement at this level.
+    - level: T7-T8
+    - anatomy: cord
+    - degeneration: no significant effacement or displacement
+- At T6-T7 there is large disc protrusion, central and to the right.
+    - level: T6-T7
+    - anatomy: disc
+    - degeneration: protrusion
+- As a result, the cord shows slight displacement to the left side.
+    - level: T6-T7
+    - anatomy: cord
+    - degeneration: displacement
+- No significant effacement of the cord however.
+    - level: T6-T7
+    - anatomy: cord
+    - degeneration: no significant effacement

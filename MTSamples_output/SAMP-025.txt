@@ -1,0 +1,114 @@
+SAMP-025
+
+FINDING: There are five vertebrae with lumbar configuration. There is a 4.5 x 2.7 cm cystic structure noted on the lowest cut of the examination to the right of midline. This may represent a right adnexal cyst. Correlation with pelvic sonography is recommended. There is preservation of the normal lumbar lordosis. There is 4-mm retrolisthesis of L2 on L3. 4-mm retrolisthesis of L3 on L4 and 2-mm retrolisthesis of L4 on L5. There is subchondral sclerosis involving the inferior endplates of L2, L3 and L4 and superior endplates of L3 and L4. There is calcification of the annulus at the L5-S1 level. At the T12-L1 and L1-L2 levels, no significant abnormality is detected. At the L2-L3 level, there is moderate loss of height of the disc. There is retrolisthesis of L2 on L3 as described above. A diffuse annular bulge is present. The central canal is diminished in cross-sectional area without evidence of central spinal stenosis. There is no evidence of significant facet spurring or foraminal narrowing. At the L3-L4 level, there is severe loss of height of the disc. As noted above, there is a prominent retrolisthesis of L3 on L4. There is a mild diffuse annular bulge present. The central canal appears adequate in caliber. There is evidence of bilateral facet hypertrophy with mild foraminal narrowing on the left. At the L4-L5 level, there is severe loss of height of the disc and a mild retrolisthesis of L4 on L5. A mild diffuse annular bulge is present. There is a droplet of nitrogen gas in the left anterior epidural space indicating the presence of a radial tear of the annulus. However, there is no evidence of focal disc protrusion. The central canal appears adequate in caliber. There is bilateral facet hypertrophy with calcification of the joint capsules bilaterally. There is mild foraminal narrowing on the left. At the L5-S1 level, disc height is preserved. The posterior margin of the disc appears unremarkable. The central canal is adequate in caliber. There is evidence of bilateral facet spurring without significant foraminal narrowing.
+
+EXTRASPINAL SENTENCES:
+- There is a 4.5 x 2.7 cm cystic structure noted on the lowest cut of the examination to the right of midline.
+- This may represent a right adnexal cyst.
+- Correlation with pelvic sonography is recommended.
+
+NON DEGENRATIVE SENTENCES:
+- There are five vertebrae with lumbar configuration.
+- There is preservation of the normal lumbar lordosis.
+- At the T12-L1 and L1-L2 levels, no significant abnormality is detected.
+- There is no evidence of significant facet spurring or foraminal narrowing.
+- The central canal appears adequate in caliber.
+- However, there is no evidence of focal disc protrusion.
+- The central canal appears adequate in caliber.
+- At the L5-S1 level, disc height is preserved.
+- The posterior margin of the disc appears unremarkable.
+- The central canal is adequate in caliber.
+
+DEGENRATIVE SENTENCES:
+- There is 4-mm retrolisthesis of L2 on L3.
+    - level: L2-L3
+    - anatomy: -
+    - degeneration: retrolisthesis
+- 4-mm retrolisthesis of L3 on L4 and 2-mm retrolisthesis of L4 on L5.
+    - level: L3-L4
+    - anatomy: -
+    - degeneration: retrolisthesis
+    *****
+    - level: L4-L5
+    - anatomy: -
+    - degeneration: retrolisthesis
+- There is subchondral sclerosis involving the inferior endplates of L2, L3 and L4 and superior endplates of L3 and L4.
+    - level: L2, L3, L4
+    - anatomy: inferior endplates
+    - degeneration: subchondral sclerosis
+    *****
+    - level: L3, L4
+    - anatomy: superior endplates
+    - degeneration: subchondral sclerosis
+- There is calcification of the annulus at the L5-S1 level.
+    - level: L5-S1
+    - anatomy: annulus
+    - degeneration: calcification
+- At the L2-L3 level, there is moderate loss of height of the disc.
+    - level: L2-L3
+    - anatomy: disc
+    - degeneration: loss of height
+- There is retrolisthesis of L2 on L3 as described above.
+    - level: L2-L3
+    - anatomy: -
+    - degeneration: retrolisthesis
+- A diffuse annular bulge is present.
+    - level: L2-L3
+    - anatomy: annulus
+    - degeneration: bulge
+- The central canal is diminished in cross-sectional area without evidence of central spinal stenosis.
+    - level: L2-L3
+    - anatomy: central canal
+    - degeneration: diminished in cross-sectional area
+- At the L3-L4 level, there is severe loss of height of the disc.
+    - level: L3-L4
+    - anatomy: disc
+    - degeneration: loss of height
+- As noted above, there is a prominent retrolisthesis of L3 on L4.
+    - level: L3-L4
+    - anatomy: -
+    - degeneration: retrolisthesis
+- There is a mild diffuse annular bulge present.
+    - level: L3-L4
+    - anatomy: annulus
+    - degeneration: bulge
+- There is evidence of bilateral facet hypertrophy with mild foraminal narrowing on the left.
+    - level: L3-L4
+    - anatomy: facet
+    - degeneration: hypertrophy
+    *****
+    - level: L3-L4
+    - anatomy: foramen
+    - degeneration: narrowing
+- At the L4-L5 level, there is severe loss of height of the disc and a mild retrolisthesis of L4 on L5.
+    - level: L4-L5
+    - anatomy: disc
+    - degeneration: loss of height
+    *****
+    - level: L4-L5
+    - anatomy: -
+    - degeneration: retrolisthesis
+- A mild diffuse annular bulge is present.
+    - level: L4-L5
+    - anatomy: annulus
+    - degeneration: bulge
+- There is a droplet of nitrogen gas in the left anterior epidural space indicating the presence of a radial tear of the annulus.
+    - level: L4-L5
+    - anatomy: annulus
+    - degeneration: radial tear
+- There is bilateral facet hypertrophy with calcification of the joint capsules bilaterally.
+    - level: L4-L5
+    - anatomy: facet
+    - degeneration: hypertrophy
+    *****
+    - level: L4-L5
+    - anatomy: joint capsules
+    - degeneration: calcification
+- There is mild foraminal narrowing on the left.
+    - level: L4-L5
+    - anatomy: foramen
+    - degeneration: narrowing
+- There is evidence of bilateral facet spurring without significant foraminal narrowing.
+    - level: L5-S1
+    - anatomy: facet
+    - degeneration: spurring

@@ -1,0 +1,84 @@
+SAMP-010
+
+FINDING: MRI examination of the cervical spine reveals the vertebral bodies to be of normal height, without acute fracture. Type I subchondral degenerative signal alteration (low signal T1, high signal T2) is present at the inferior C4 and superior C5 vertebral margins. Decreased signal is noted throughout the cervical disks on the T2 weighted images, compatible with desiccation. Moderate decreases of disk height are appreciated at C4-C5, C5-C6 and C6-C7. The cervical spine is hypolordotic. Vertebral body alignment is otherwise unremarkable. The atlantodental interval is within normal limits. Small osteophytes are identified at the anterior C4 through C6 vertebral margins. A broad-based disk/osteophyte complex is evident at C3-C4 mildly flattening the ventral aspect of the cord. Mild bony narrowing of both neuroforamina is present. Subarachnoid bony hypertrophic changes are noted at C4-C5 with a superimposed right paracentral disk protrusion measuring 6.0 mm anteroposteriorly with substantial mass effect upon the ventral aspect of the cord. The central canal measures 4.5 mm anteroposteriorly at midline and 2.2 mm at the right paracentral aspect. A focal alteration of increased cord signal is evident on the T2 weighted images at C4-C5, measuring 14 mm in length and extends from the posterior aspect of the protrusion to the posterior aspect of the cord. Bilateral facet arthrosis is appreciated, appearing more advanced on the left. There is moderate and advanced bony narrowing of the left and right neuroforamina, respectively. A broad-based disk/osteophyte complex is noted at C5-C6 flattening the ventral aspect of the cord. The central canal measures 6.3 mm anteroposteriorly at midline. There is advanced bony narrowing of both neuroforamina and bilateral facet arthrosis. A broad based disk/osteophyte complex is appreciated at C6-C7 mildly lateralizing toward the right, minimally effacing the ventral aspect of the cord. There is severe bony narrowing of the right neuroforamen with bilateral facet arthrosis appearing advanced on the right side. The cerebellar tonsils are normally located.
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- MRI examination of the cervical spine reveals the vertebral bodies to be of normal height, without acute fracture.
+- The cerebellar tonsils are normally located.
+
+DEGENRATIVE SENTENCES:
+- Type I subchondral degenerative signal alteration (low signal T1, high signal T2) is present at the inferior C4 and superior C5 vertebral margins.
+    - level: C4, C5
+    - anatomy: vertebral margins
+    - degeneration: Type I subchondral degenerative signal alteration
+- Decreased signal is noted throughout the cervical disks on the T2 weighted images, compatible with desiccation.
+    - level: cervical
+    - anatomy: disks
+    - degeneration: desiccation
+- Moderate decreases of disk height are appreciated at C4-C5, C5-C6 and C6-C7.
+    - level: C4-C5, C5-C6, C6-C7
+    - anatomy: disk
+    - degeneration: decreases of height
+- The cervical spine is hypolordotic.
+    - level: cervical
+    - anatomy: -
+    - degeneration: hypolordotic
+- Small osteophytes are identified at the anterior C4 through C6 vertebral margins.
+    - level: C4, C5, C6
+    - anatomy: vertebral margins
+    - degeneration: osteophytes
+- A broad-based disk/osteophyte complex is evident at C3-C4 mildly flattening the ventral aspect of the cord.
+    - level: C3-C4
+    - anatomy: disk
+    - degeneration: osteophyte complex
+- Mild bony narrowing of both neuroforamina is present.
+    - level: C3-C4
+    - anatomy: neuroforamina
+    - degeneration: narrowing
+- Subarachnoid bony hypertrophic changes are noted at C4-C5 with a superimposed right paracentral disk protrusion measuring 6.0 mm anteroposteriorly with substantial mass effect upon the ventral aspect of the cord.
+    - level: C4-C5
+    - anatomy: subarachnoid
+    - degeneration: hypertrophic changes
+    *****
+    - level: C4-C5
+    - anatomy: disk
+    - degeneration: protrusion
+- A focal alteration of increased cord signal is evident on the T2 weighted images at C4-C5, measuring 14 mm in length and extends from the posterior aspect of the protrusion to the posterior aspect of the cord.
+    - level: C4-C5
+    - anatomy: cord
+    - degeneration: increased signal
+- Bilateral facet arthrosis is appreciated, appearing more advanced on the left.
+    - level: C4-C5
+    - anatomy: facet
+    - degeneration: arthrosis
+- There is moderate and advanced bony narrowing of the left and right neuroforamina, respectively.
+    - level: C4-C5
+    - anatomy: neuroforamina
+    - degeneration: narrowing
+- A broad-based disk/osteophyte complex is noted at C5-C6 flattening the ventral aspect of the cord.
+    - level: C5-C6
+    - anatomy: disk
+    - degeneration: osteophyte complex
+- There is advanced bony narrowing of both neuroforamina and bilateral facet arthrosis.
+    - level: C5-C6
+    - anatomy: neuroforamina
+    - degeneration: narrowing
+    *****
+    - level: C5-C6
+    - anatomy: facet
+    - degeneration: arthrosis
+- A broad based disk/osteophyte complex is appreciated at C6-C7 mildly lateralizing toward the right, minimally effacing the ventral aspect of the cord.
+    - level: C6-C7
+    - anatomy: disk
+    - degeneration: osteophyte complex
+- There is severe bony narrowing of the right neuroforamen with bilateral facet arthrosis appearing advanced on the right side.
+    - level: C6-C7
+    - anatomy: neuroforamen
+    - degeneration: narrowing
+    *****
+    - level: C6-C7
+    - anatomy: facet
+    - degeneration: arthrosis

@@ -1,0 +1,110 @@
+SAMP-012
+
+FINDING: No abnormal paraspinal masses are identified. There are sclerotic changes with anterior effusion of the sacroiliac joints bilaterally. There is marked intervertebral disk space narrowing at the L5-S1 level with intervertebral disk vacuum phenomenon and advanced endplate degenerative changes. Posterior disk osteophyte complex is present, most marked in the left paracentral to lateral region extending into the lateral recess on the left. This most likely will affect the S1 nerve root on the left. There are posterior hypertrophic changes extending into the neural foramina bilaterally inferiorly. There is mild neural foraminal stenosis present. Small amount of extruded disk vacuum phenomenon is present on the left in the region of the exiting nerve root. There is facet sclerosis bilaterally. Mild lateral recess stenosis just on the right, there is prominent anterior spondylosis. At the L4-5 level, mild bilateral facet arthrosis is present. There is broad based posterior annular disk bulging or protrusion, which mildly effaces the anterior aspect of the thecal sac and extends into the inferior aspect of the neural foramina bilaterally. No moderate or high-grade central canal or neural foraminal stenosis is identified. At the L3-4 level anterior spondylosis is present. There are endplate degenerative changes with mild posterior annular disk bulging, but no evidence of moderate or high-grade central canal or neural foraminal stenosis. At the L2-3 level, there is mild bilateral ligamentum flavum hypertrophy. Mild posterior annular disk bulging is present without evidence of moderate or high-grade central canal or neural foraminal stenosis. At the T12-L1 and L1-2 levels, there is no evidence of herniated disk protrusion, central canal, or neural foraminal stenosis. There is arteriosclerotic vascular calcification of the abdominal aorta and iliac arteries without evidence of aneurysm or dilatation. No bony destructive changes or acute fractures are identified.
+
+EXTRASPINAL SENTENCES:
+- There is arteriosclerotic vascular calcification of the abdominal aorta and iliac arteries without evidence of aneurysm or dilatation.
+
+NON DEGENRATIVE SENTENCES:
+- No abnormal paraspinal masses are identified.
+- No moderate or high-grade central canal or neural foraminal stenosis is identified.
+- At the T12-L1 and L1-2 levels, there is no evidence of herniated disk protrusion, central canal, or neural foraminal stenosis.
+- No bony destructive changes or acute fractures are identified.
+
+DEGENRATIVE SENTENCES:
+- There are sclerotic changes with anterior effusion of the sacroiliac joints bilaterally.
+    - level: sacral
+    - anatomy: sacroiliac joints
+    - degeneration: sclerotic changes
+    *****
+    - level: sacral
+    - anatomy: sacroiliac joints
+    - degeneration: anterior effusion
+- There is marked intervertebral disk space narrowing at the L5-S1 level with intervertebral disk vacuum phenomenon and advanced endplate degenerative changes.
+    - level: L5-S1
+    - anatomy: intervertebral disk
+    - degeneration: space narrowing
+    *****
+    - level: L5-S1
+    - anatomy: intervertebral disk
+    - degeneration: vacuum phenomenon
+    *****
+    - level: L5-S1
+    - anatomy: endplate
+    - degeneration: degenerative changes
+- Posterior disk osteophyte complex is present, most marked in the left paracentral to lateral region extending into the lateral recess on the left.
+    - level: L5-S1
+    - anatomy: disk
+    - degeneration: osteophyte complex
+- This most likely will affect the S1 nerve root on the left.
+    - level: S1
+    - anatomy: nerve root
+    - degeneration: affect
+- There are posterior hypertrophic changes extending into the neural foramina bilaterally inferiorly.
+    - level: S1
+    - anatomy: neural foramina
+    - degeneration: hypertrophic changes
+- There is mild neural foraminal stenosis present.
+    - level: S1
+    - anatomy: neural foramina
+    - degeneration: stenosis
+- Small amount of extruded disk vacuum phenomenon is present on the left in the region of the exiting nerve root.
+    - level: S1
+    - anatomy: disk
+    - degeneration: vacuum phenomenon
+    *****
+    - level: S1
+    - anatomy: exiting nerve root
+    - degeneration: region
+- There is facet sclerosis bilaterally.
+    - level: S1
+    - anatomy: facet
+    - degeneration: sclerosis
+- Mild lateral recess stenosis just on the right, there is prominent anterior spondylosis.
+    - level: S1
+    - anatomy: lateral recess
+    - degeneration: stenosis
+    *****
+    - level: S1
+    - anatomy: -
+    - degeneration: anterior spondylosis
+- At the L4-5 level, mild bilateral facet arthrosis is present.
+    - level: L4-5
+    - anatomy: facet
+    - degeneration: arthrosis
+- There is broad based posterior annular disk bulging or protrusion, which mildly effaces the anterior aspect of the thecal sac and extends into the inferior aspect of the neural foramina bilaterally.
+    - level: L4-5
+    - anatomy: annular disk
+    - degeneration: bulging
+    *****
+    - level: L4-5
+    - anatomy: annular disk
+    - degeneration: protrusion
+    *****
+    - level: L4-5
+    - anatomy: thecal sac
+    - degeneration: effaces
+    *****
+    - level: L4-5
+    - anatomy: neural foramina
+    - degeneration: extends
+- At the L3-4 level anterior spondylosis is present.
+    - level: L3-4
+    - anatomy: -
+    - degeneration: anterior spondylosis
+- There are endplate degenerative changes with mild posterior annular disk bulging, but no evidence of moderate or high-grade central canal or neural foraminal stenosis.
+    - level: L3-4
+    - anatomy: endplate
+    - degeneration: degenerative changes
+    *****
+    - level: L3-4
+    - anatomy: annular disk
+    - degeneration: bulging
+- At the L2-3 level, there is mild bilateral ligamentum flavum hypertrophy.
+    - level: L2-3
+    - anatomy: ligamentum flavum
+    - degeneration: hypertrophy
+- Mild posterior annular disk bulging is present without evidence of moderate or high-grade central canal or neural foraminal stenosis.
+    - level: L2-3
+    - anatomy: annular disk
+    - degeneration: bulging

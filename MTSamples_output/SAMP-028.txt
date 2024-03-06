@@ -1,0 +1,75 @@
+SAMP-028
+
+FINDING: Sagittal and axial images were obtained. The craniocervical junction is within normal limits. Spinal cord is normal in location and signal intensity. There is straightening of the normal curvature. Marrow signal within the bony structures is unremarkable. At C7-T1, there is no focal disk disease. At C6-7, there is a disk bulge which causes mild flattening of the anterior CSF space and some neural foraminal narrowing, left greater than right. At C5-6, there is a combination of disk bulge and posterior osteophytes, which narrows the neural foramina and flattens the anterior CSF space, more so than at the C6-7 level. At C4-5, there is a disk bulge, which flattens the anterior CSF space and causes some bilateral neural foraminal narrowing, left greater than right. At C3-4, there is a combination of bone and disk, which slightly flattens the anterior CSF space and narrows the neural foramina bilaterally.
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- Sagittal and axial images were obtained.
+- The craniocervical junction is within normal limits.
+- Spinal cord is normal in location and signal intensity.
+- Marrow signal within the bony structures is unremarkable.
+- At C7-T1, there is no focal disk disease.
+
+DEGENRATIVE SENTENCES:
+- There is straightening of the normal curvature.
+    - level: cervical
+    - anatomy: -
+    - degeneration: straightening of the normal curvature
+- At C6-7, there is a disk bulge which causes mild flattening of the anterior CSF space and some neural foraminal narrowing, left greater than right.
+    - level: C6-7
+    - anatomy: disk
+    - degeneration: bulge
+    *****
+    - level: C6-7
+    - anatomy: anterior CSF space
+    - degeneration: flattening
+    *****
+    - level: C6-7
+    - anatomy: neural foramina
+    - degeneration: narrowing
+- At C5-6, there is a combination of disk bulge and posterior osteophytes, which narrows the neural foramina and flattens the anterior CSF space, more so than at the C6-7 level.
+    - level: C5-6
+    - anatomy: disk
+    - degeneration: bulge
+    *****
+    - level: C5-6
+    - anatomy: -
+    - degeneration: osteophytes
+    *****
+    - level: C5-6
+    - anatomy: neural foramina
+    - degeneration: narrowing
+    *****
+    - level: C5-6
+    - anatomy: anterior CSF space
+    - degeneration: flattening
+- At C4-5, there is a disk bulge, which flattens the anterior CSF space and causes some bilateral neural foraminal narrowing, left greater than right.
+    - level: C4-5
+    - anatomy: disk
+    - degeneration: bulge
+    *****
+    - level: C4-5
+    - anatomy: anterior CSF space
+    - degeneration: flattening
+    *****
+    - level: C4-5
+    - anatomy: neural foramina
+    - degeneration: narrowing
+- At C3-4, there is a combination of bone and disk, which slightly flattens the anterior CSF space and narrows the neural foramina bilaterally.
+    - level: C3-4
+    - anatomy: bone
+    - degeneration: -
+    *****
+    - level: C3-4
+    - anatomy: disk
+    - degeneration: -
+    *****
+    - level: C3-4
+    - anatomy: anterior CSF space
+    - degeneration: flattening
+    *****
+    - level: C3-4
+    - anatomy: neural foramina
+    - degeneration: narrowing

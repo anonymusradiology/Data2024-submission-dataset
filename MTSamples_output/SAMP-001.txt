@@ -1,0 +1,34 @@
+SAMP-001
+
+FINDING: The cervical cord appears normal in its size and signal characteristics. The C2-3 and C3-4 discs are degenerated. There is some mild bulging of the C3-4 disc. Neither level demonstrates central or neural foraminal narrowing. There has been prior fusion from C4 through C7 in good alignment and position. An anterior screw and plate device is present. At C4-5 and C5-6 there is no recurrent central or neural foraminal narrowing. At C6-7 there is mild bilateral bony neural foraminal narrowing without central canal compromise. The C7-T1 level appears unremarkable.
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- The cervical cord appears normal in its size and signal characteristics.
+- Neither level demonstrates central or neural foraminal narrowing.
+- At C4-5 and C5-6 there is no recurrent central or neural foraminal narrowing.
+- The C7-T1 level appears unremarkable.
+
+DEGENRATIVE SENTENCES:
+- The C2-3 and C3-4 discs are degenerated.
+    - level: C2-3, C3-4
+    - anatomy: disc
+    - degeneration: degenerated
+- There is some mild bulging of the C3-4 disc.
+    - level: C3-4
+    - anatomy: disc
+    - degeneration: bulging
+- There has been prior fusion from C4 through C7 in good alignment and position.
+    - level: C4-C7
+    - anatomy: -
+    - degeneration: prior fusion
+- An anterior screw and plate device is present.
+    - level: C4-C7
+    - anatomy: -
+    - degeneration: anterior screw and plate device
+- At C6-7 there is mild bilateral bony neural foraminal narrowing without central canal compromise.
+    - level: C6-7
+    - anatomy: neural foramen
+    - degeneration: narrowing

@@ -1,0 +1,79 @@
+SAMP-020
+
+FINDING: Multiple contiguous axial and sagittal images were obtained through the cervical spine prior to and following contrast administration. Sagittal images indicate normal craniocervical junction level. Cord does not exhibit any abnormal signal change. At C7-T1 there is prominent disc protrusion to the left side serving to severely compromise the C7-T1 level on the left. Right side foramen shows patency. There is partial effacement of the cord on the left side. No abnormal cord signal change. At C6-C7 there is desiccation together with loss of disc height. Prominent left side disc protrusion as well serving to severely compromise the left side C6-C7 foramen. Partial effacement of the cord on the left side as a result. I believe there is a component to the right side, which also severely compromises the right side C6-C7 foramen. No abnormal cord signal change. At C5-C6 there is evidence of a large central focal disc protrusion to the left side serving to significantly efface the left side of the cord. No abnormal cord signal change. The disc to the left severely compromises the C5-C6 foramen. I believe, there is probable uncinate hypertrophy and perhaps a disc component serving to severely compromise the C5-C6 foramen. No indication of any abnormal signal change within the cord or formation of a syrinx. At C4-C5 similar findings with left side disc herniation severely compromising the left side C4-C5 foramen. Right side foramen shows relatively wide patency. Partial effacement of the left side of the cord. At C3-C4 there is large central disc protrusion serving to ventrally efface the cord. No abnormal cord signal change however. I believe there is severe compromise of the left side C3-C4 foramen as a result of the soft tissue component. Right side foramen shows patency. At C2-C3 there is normal cross-sectional appearance.
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- Multiple contiguous axial and sagittal images were obtained through the cervical spine prior to and following contrast administration.
+- Sagittal images indicate normal craniocervical junction level.
+- Cord does not exhibit any abnormal signal change.
+- Right side foramen shows patency.
+- No abnormal cord signal change.
+- No abnormal cord signal change.
+- No indication of any abnormal signal change within the cord or formation of a syrinx.
+- Right side foramen shows patency.
+- At C2-C3 there is normal cross-sectional appearance.
+
+DEGENRATIVE SENTENCES:
+- At C7-T1 there is prominent disc protrusion to the left side serving to severely compromise the C7-T1 level on the left.
+    - level: C7-T1
+    - anatomy: disc
+    - degeneration: protrusion
+- There is partial effacement of the cord on the left side.
+    - level: C7-T1
+    - anatomy: cord
+    - degeneration: partial effacement
+- At C6-C7 there is desiccation together with loss of disc height.
+    - level: C6-C7
+    - anatomy: disc
+    - degeneration: desiccation
+    *****
+    - level: C6-C7
+    - anatomy: disc
+    - degeneration: loss of height
+- Prominent left side disc protrusion as well serving to severely compromise the left side C6-C7 foramen.
+    - level: C6-C7
+    - anatomy: disc
+    - degeneration: protrusion
+- Partial effacement of the cord on the left side as a result.
+    - level: C6-C7
+    - anatomy: cord
+    - degeneration: partial effacement
+- I believe there is a component to the right side, which also severely compromises the right side C6-C7 foramen.
+    - level: C6-C7
+    - anatomy: -
+    - degeneration: compromise
+- At C5-C6 there is evidence of a large central focal disc protrusion to the left side serving to significantly efface the left side of the cord.
+    - level: C5-C6
+    - anatomy: disc
+    - degeneration: protrusion
+- The disc to the left severely compromises the C5-C6 foramen.
+    - level: C5-C6
+    - anatomy: disc
+    - degeneration: compromise
+- I believe, there is probable uncinate hypertrophy and perhaps a disc component serving to severely compromise the C5-C6 foramen.
+    - level: C5-C6
+    - anatomy: uncinate
+    - degeneration: hypertrophy
+    *****
+    - level: C5-C6
+    - anatomy: disc
+    - degeneration: compromise
+- At C4-C5 similar findings with left side disc herniation severely compromising the left side C4-C5 foramen.
+    - level: C4-C5
+    - anatomy: disc
+    - degeneration: herniation
+- Partial effacement of the left side of the cord.
+    - level: C4-C5
+    - anatomy: cord
+    - degeneration: partial effacement
+- At C3-C4 there is large central disc protrusion serving to ventrally efface the cord.
+    - level: C3-C4
+    - anatomy: disc
+    - degeneration: protrusion
+- I believe there is severe compromise of the left side C3-C4 foramen as a result of the soft tissue component.
+    - level: C3-C4
+    - anatomy: -
+    - degeneration: compromise

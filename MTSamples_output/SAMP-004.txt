@@ -1,0 +1,100 @@
+SAMP-004
+
+FINDING: Postoperative findings of posterior intrapedicular spinal fusion at L2-L3 noted. The L2-L3 disk is preserved. Enhancing peridural fibrosis noted at L2-L3 level mildly deforming the thecal sac with dominant extrinsic impression on the right lateral thecal sac. Non enhancing cystic foci noted along the posterior elements representing small pseudomeningoceles. Postoperative fusion and laminectomy noted at L4-L5 level with osseous fusion anteriorly. Osseous hypertrophy of the posterior elements noted at L4 and L5. Lumbar lordosis is decreased. Multilevel endplate, disk and facet degenerative changes noted. Conus medullaris terminates at approximately mid L1 vertebral body level. L1-L2 shows moderate broad-based disc bulging contributing to mild to moderate left greater than right neuroforamina narrowing. Spinal canal is grossly patent. Approximately 2 mm L1 on L2 retrolisthesis noted. L2-L3 shows moderate nonenhancing bi foraminal broad-based disk bulging contributing to mild-to-moderate right greater than left neural foramina narrowing. Moderate acquired spinal canal stenosis noted due to enhancing peridural fibrosis with asymmetric more focal extrinsic impression on the right lateral ventral thecal sac. Negligible spondylolisthesis of L2 on L3 noted. L3-L4 level shows mild disk desiccation and height loss. Extraforaminal focal annular tears noted on both sides. Spinal canal and foramina are patent. L4-L5 level shows postoperative findings with partial fusion anteriorly with linear hyper intense signal in the remaining intervertebral disk space. Spinal canal and foramina are patent. No gross thecal sac deformity noted. Bilateral laminectomies noted. L5-S1 level shows subtle left central broad-based disk protrusion. Spinal canal and foramina are patent. No gross thecal sac deformity. Bilateral laminectomies noted. Ferromagnetic susceptibility artifact noted along the mid posterior back spanning from L2 through S2. No suspicious prevertebral or posterior paraspinal soft tissue signal abnormality noted. Mild subchondral sclerosis of the included sacroiliac joints noted. Incidental note of overdistended bladder.
+
+EXTRASPINAL SENTENCES:
+- Incidental note of overdistended bladder.
+
+NON DEGENRATIVE SENTENCES:
+- The L2-L3 disk is preserved.
+
+DEGENRATIVE SENTENCES:
+- Postoperative findings of posterior intrapedicular spinal fusion at L2-L3 noted.
+    - level: L2-L3
+    - anatomy: -
+    - degeneration: postoperative findings of posterior intrapedicular spinal fusion
+*****
+- Enhancing peridural fibrosis noted at L2-L3 level mildly deforming the thecal sac with dominant extrinsic impression on the right lateral thecal sac.
+    - level: L2-L3
+    - anatomy: peridural fibrosis
+    - degeneration: enhancing
+    *****
+    - level: L2-L3
+    - anatomy: thecal sac
+    - degeneration: deforming
+- Non enhancing cystic foci noted along the posterior elements representing small pseudomeningoceles.
+    - level: L2-L3
+    - anatomy: posterior elements
+    - degeneration: non enhancing cystic foci
+- Postoperative fusion and laminectomy noted at L4-L5 level with osseous fusion anteriorly.
+    - level: L4-L5
+    - anatomy: -
+    - degeneration: postoperative fusion and laminectomy
+- Osseous hypertrophy of the posterior elements noted at L4 and L5.
+    - level: L4, L5
+    - anatomy: posterior elements
+    - degeneration: osseous hypertrophy
+- Lumbar lordosis is decreased.
+    - level: lumbar
+    - anatomy: -
+    - degeneration: lordosis decreased
+- Multilevel endplate, disk and facet degenerative changes noted.
+    - level: L2, L3, L4, L5
+    - anatomy: endplate
+    - degeneration: degenerative changes
+    *****
+    - level: L2, L3, L4, L5
+    - anatomy: disk
+    - degeneration: degenerative changes
+    *****
+    - level: L2, L3, L4, L5
+    - anatomy: facet
+    - degeneration: degenerative changes
+- L1-L2 shows moderate broad-based disc bulging contributing to mild to moderate left greater than right neuroforamina narrowing.
+    - level: L1-L2
+    - anatomy: disc
+    - degeneration: bulging
+    *****
+    - level: L1-L2
+    - anatomy: neuroforamina
+    - degeneration: narrowing
+- Approximately 2 mm L1 on L2 retrolisthesis noted.
+    - level: L1-L2
+    - anatomy: -
+    - degeneration: retrolisthesis
+- L2-L3 shows moderate nonenhancing bi foraminal broad-based disk bulging contributing to mild-to-moderate right greater than left neural foramina narrowing.
+    - level: L2-L3
+    - anatomy: disk
+    - degeneration: nonenhancing bi foraminal broad-based bulging
+    *****
+    - level: L2-L3
+    - anatomy: neural foramina
+    - degeneration: narrowing
+- L3-L4 level shows mild disk desiccation and height loss.
+    - level: L3-L4
+    - anatomy: disk
+    - degeneration: desiccation
+    *****
+    - level: L3-L4
+    - anatomy: disk
+    - degeneration: height loss
+- Extraforaminal focal annular tears noted on both sides.
+    - level: L3-L4
+    - anatomy: extraforaminal
+    - degeneration: focal annular tears
+- L4-L5 level shows postoperative findings with partial fusion anteriorly with linear hyper intense signal in the remaining intervertebral disk space.
+    - level: L4-L5
+    - anatomy: -
+    - degeneration: postoperative findings with partial fusion
+- L5-S1 level shows subtle left central broad-based disk protrusion.
+    - level: L5-S1
+    - anatomy: disk
+    - degeneration: subtle left central broad-based protrusion
+- Ferromagnetic susceptibility artifact noted along the mid posterior back spanning from L2 through S2.
+    - level: L2, L3, L4, L5, S1, S2
+    - anatomy: mid posterior back
+    - degeneration: ferromagnetic susceptibility artifact
+- Mild subchondral sclerosis of the included sacroiliac joints noted.
+    - level: sacroiliac
+    - anatomy: joints
+    - degeneration: mild subchondral sclerosis

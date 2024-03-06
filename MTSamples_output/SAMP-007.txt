@@ -1,0 +1,39 @@
+SAMP-007
+
+FINDING: Radiographic examination of the spine by means of APOM, AP lower cervical, neutral lateral cervical and cervical flexion and extension projections reveals the cervical spine to be hypolordotic with a moderate restriction of extension. There is a decrease of disk space height at C5-C6 with an intercalary bone at the same level.  Bony hypertrophic changes are present at the anterior C5 and C6 vertebral margins. The atlantodental interval is within normal limits. Anterior vertebral body height is well maintained. Acute fracture is not demonstrated. A pontus posticus is identified.  There is calcification within the stylohyoideus ligaments. Of incidental note is an azygous fissure in the right pulmonary apex. There is calcification within the pineal body.
+
+EXTRASPINAL SENTENCES:
+- There is calcification within the stylohyoideus ligaments.
+- Of incidental note is an azygous fissure in the right pulmonary apex.
+- There is calcification within the pineal body.
+
+NON DEGENRATIVE SENTENCES:
+- The atlantodental interval is within normal limits.
+- Anterior vertebral body height is well maintained.
+- Acute fracture is not demonstrated.
+
+DEGENRATIVE SENTENCES:
+- Radiographic examination of the spine by means of APOM, AP lower cervical, neutral lateral cervical and cervical flexion and extension projections reveals the cervical spine to be hypolordotic with a moderate restriction of extension.
+    - level: cervical
+    - anatomy: -
+    - degeneration: hypolordotic
+    *****
+    - level: cervical
+    - anatomy: -
+    - degeneration: restriction of extension
+- There is a decrease of disk space height at C5-C6 with an intercalary bone at the same level.
+    - level: C5-C6
+    - anatomy: disk space
+    - degeneration: decrease of height
+    *****
+    - level: C5-C6
+    - anatomy: -
+    - degeneration: intercalary bone
+- Bony hypertrophic changes are present at the anterior C5 and C6 vertebral margins.
+    - level: C5, C6
+    - anatomy: vertebral margins
+    - degeneration: bony hypertrophic changes
+- A pontus posticus is identified.
+    - level: cervical
+    - anatomy: -
+    - degeneration: pontus posticus

@@ -1,0 +1,56 @@
+SAMP-015
+
+FINDING: There is straightening of the normal cervical lordosis on the localizer sequence. There is a normal thoracic kyphosis. There is mild disc desiccation from T2-3 through T9-10 with mild prevertebral spondylosis at T2-3. Vertebral body heights are well-maintained without compression fracture. There is a no bone marrow edema or destructive bony lesions identified. There is mild diffuse congenital narrowing of the spinal canal. No paraspinal soft tissue mass. There is a well-circumscribed 8 mm T2 hyperintense lesion within the right hepatic lobe most likely representing a hepatic cyst or hemangioma. At the T7-8 level there is a focal 3 mm central disc protrusion which results in deformity of the ventral spinal cord and a mild spinal canal stenosis without definite cord signal abnormality. No significant neural foraminal narrowing. At the T8-9 level there is a focal 2 mm right central disc protrusion which results in mild deformity of the right ventral thecal sac and cord without spinal canal stenosis or neural foraminal narrowing. At the T9-10 level there is mild left facet hypertrophy without spinal canal or neural foraminal stenosis. Elsewhere within the thoracic spine, there is no significant posterior disc bulge, disc protrusion, spinal canal stenosis, or neural foraminal narrowing.
+
+EXTRASPINAL SENTENCES:
+- There is a well-circumscribed 8 mm T2 hyperintense lesion within the right hepatic lobe most likely representing a hepatic cyst or hemangioma.
+
+NON DEGENRATIVE SENTENCES:
+- There is a normal thoracic kyphosis.
+- Vertebral body heights are well-maintained without compression fracture.
+- There is a no bone marrow edema or destructive bony lesions identified.
+- No paraspinal soft tissue mass.
+- No significant neural foraminal narrowing.
+- Elsewhere within the thoracic spine, there is no significant posterior disc bulge, disc protrusion, spinal canal stenosis, or neural foraminal narrowing.
+
+DEGENRATIVE SENTENCES:
+- There is straightening of the normal cervical lordosis on the localizer sequence.
+    - level: cervical
+    - anatomy: -
+    - degeneration: straightening of lordosis
+- There is mild disc desiccation from T2-3 through T9-10 with mild prevertebral spondylosis at T2-3.
+    - level: T2-3, T3-4, T4-5, T5-6, T6-7, T7-8, T8-9, T9-10
+    - anatomy: disc
+    - degeneration: desiccation
+    *****
+    - level: T2-3
+    - anatomy: prevertebral
+    - degeneration: spondylosis
+- There is mild diffuse congenital narrowing of the spinal canal.
+    - level: thoracic
+    - anatomy: spinal canal
+    - degeneration: narrowing
+- At the T7-8 level there is a focal 3 mm central disc protrusion which results in deformity of the ventral spinal cord and a mild spinal canal stenosis without definite cord signal abnormality.
+    - level: T7-8
+    - anatomy: disc
+    - degeneration: protrusion
+    *****
+    - level: T7-8
+    - anatomy: spinal cord
+    - degeneration: deformity
+    *****
+    - level: T7-8
+    - anatomy: spinal canal
+    - degeneration: stenosis
+- At the T8-9 level there is a focal 2 mm right central disc protrusion which results in mild deformity of the right ventral thecal sac and cord without spinal canal stenosis or neural foraminal narrowing.
+    - level: T8-9
+    - anatomy: disc
+    - degeneration: protrusion
+    *****
+    - level: T8-9
+    - anatomy: thecal sac
+    - degeneration: deformity
+- At the T9-10 level there is mild left facet hypertrophy without spinal canal or neural foraminal stenosis.
+    - level: T9-10
+    - anatomy: facet
+    - degeneration: hypertrophy

@@ -1,0 +1,19 @@
+SAMP-022
+
+FINDING: Long-standing and severe degenerative disc disease is noted at the C5-C6 level with significant spur formation bilaterally into the intervertebral foramina. No fracture or dislocation is observed.
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- No fracture or dislocation is observed.
+
+DEGENRATIVE SENTENCES:
+- Long-standing and severe degenerative disc disease is noted at the C5-C6 level with significant spur formation bilaterally into the intervertebral foramina.
+    - level: C5-C6
+    - anatomy: disc
+    - degeneration: degenerative disease
+    *****
+    - level: C5-C6
+    - anatomy: intervertebral foramina
+    - degeneration: spur formation

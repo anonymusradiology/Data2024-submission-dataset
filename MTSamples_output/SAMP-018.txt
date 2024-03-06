@@ -1,0 +1,53 @@
+SAMP-018
+
+FINDING: At L5-S1 there is evidence of a large central-to-right side disc protrusion at this level, which results in displacement and compromise of the subarticular portion of the right S1 root. Left S1 root does not appear affected. At L4-L5 there is significant disc space narrowing with central disc herniation of moderate size. This results in partial effacement of the ventral portion of the thecal sac. No clear indication of any compromise of either exiting root however. The L3-L4 level is by far is the most affected with disc space narrowing. Both the sagittal and axial images indicate large disc protrusion centrally and slightly to the right side. I believe this serves to compromise the thecal sac significantly. Herniated disc material, which still appears contiguous with the disc space occupies the majority of the thecal sac showing significant effacement. At L2-L3 there is normal cross-sectional appearance without epidural compromise of the canal or roots.
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- Left S1 root does not appear affected.
+- No clear indication of any compromise of either exiting root however.
+- At L2-L3 there is normal cross-sectional appearance without epidural compromise of the canal or roots.
+
+DEGENRATIVE SENTENCES:
+- At L5-S1 there is evidence of a large central-to-right side disc protrusion at this level, which results in displacement and compromise of the subarticular portion of the right S1 root.
+    - level: L5-S1
+    - anatomy: disc
+    - degeneration: protrusion
+    *****
+    - level: L5-S1
+    - anatomy: subarticular portion of the S1 root
+    - degeneration: displacement and compromise
+- At L4-L5 there is significant disc space narrowing with central disc herniation of moderate size.
+    - level: L4-L5
+    - anatomy: disc space
+    - degeneration: narrowing
+    *****
+    - level: L4-L5
+    - anatomy: disc
+    - degeneration: herniation
+- This results in partial effacement of the ventral portion of the thecal sac.
+    - level: L4-L5
+    - anatomy: ventral portion of the thecal sac
+    - degeneration: partial effacement
+- The L3-L4 level is by far is the most affected with disc space narrowing.
+    - level: L3-L4
+    - anatomy: disc space
+    - degeneration: narrowing
+- Both the sagittal and axial images indicate large disc protrusion centrally and slightly to the right side.
+    - level: L3-L4
+    - anatomy: disc
+    - degeneration: protrusion
+- I believe this serves to compromise the thecal sac significantly.
+    - level: L3-L4
+    - anatomy: thecal sac
+    - degeneration: compromise
+- Herniated disc material, which still appears contiguous with the disc space occupies the majority of the thecal sac showing significant effacement.
+    - level: L3-L4
+    - anatomy: disc material
+    - degeneration: herniation
+    *****
+    - level: L3-L4
+    - anatomy: thecal sac
+    - degeneration: effacement

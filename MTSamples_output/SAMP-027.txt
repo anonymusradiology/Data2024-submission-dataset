@@ -1,0 +1,19 @@
+SAMP-027
+
+FINDING: The examination shows lumbar vertebrae to be in normal overall alignment with preservation in vertebral body heights and normal signal within the marrow. For descriptive purposes of this study, fairly small disc is noted at the S1-S2 interspace. The tip of the conus lies near the lower body of L1
+
+EXTRASPINAL SENTENCES:
+
+
+NON DEGENRATIVE SENTENCES:
+- The examination shows lumbar vertebrae to be in normal overall alignment with preservation in vertebral body heights and normal signal within the marrow.
+
+DEGENRATIVE SENTENCES:
+- For descriptive purposes of this study, fairly small disc is noted at the S1-S2 interspace.
+    - level: S1-S2
+    - anatomy: disc
+    - degeneration: small
+- The tip of the conus lies near the lower body of L1.
+    - level: L1
+    - anatomy: conus
+    - degeneration: lies near the lower body

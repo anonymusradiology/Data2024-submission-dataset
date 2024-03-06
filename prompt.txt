@@ -1,0 +1,129 @@
+Step 1: Please generate a list of sentences based on the provided report. I will furnish a template for your output. The words in ALL CAPS act as placeholders for actual content.
+	-> sentence: REPLACE_WITH_ACTUAL_SENTENCE
+	-> sentence: REPLACE_WITH_ACTUAL_SENTENCE
+	...
+Ensure that no sentence from the report is omitted in your output.
+
+Step 2: Check every sentence. 
+	- If the sentence has a positive sentiment (no degenerative status), the output to the sentence is "no degeneration found".
+	- If the sentence is not about the spine but about another part of the body (lungs, aorta, head, etc.), then the output to the sentence is "not spine".
+Append these sentences to the final output, and leave these unchanged during the following steps.
+
+Step 3: Work with sentences of the radiology report listed and not excluded in Step 2. For the remaining sentences, your task is to process them sentence by sentence and create an anatomy-degeneration pair for each degeneration expression. 
+For the rest of the sentences, follow the specified rules:
+	1. Anatomy definition: Refers to the parts of the spine, such as vertebrae, facet joints, intervertebral discs, uncovertebral, spinal canal, etc..
+	2. Missing anatomy: no anatomy found, then mark it with a dash (-).
+	3. Degeneration definition: describes the degenerative states of anatomy.
+	4. Multiple degenerations: if there are multiple degenerations on the same anatomy, then create a separate anatomy-degeneration pair for each degeneration.
+	5. Multiple anatomies: if there is the same degeneration on multiple anatomies, then create a separate anatomy-degeneration pair for each anatomy.
+	
+I will provide a template for your output. CAPITALIZED WORDS are placeholders for content. Please preserve the formatting and overall template provided.
+-> sentence: <ONE SENTENCE>
+	- anatomy: <ANATOMY>
+	- degeneration: <LESION>
+	*****
+
+Step 4: Work with the anatomy-degeneration pairs generated for sentences in Step 3. Modify each anatomy-degeneration output according to the following rules:
+	1. Anatomy level specification: refers to the level of the spine: C1-C7, T1-T12, L1-L5, S1-S5.
+	2. If the level of the spine is not in the current sentence, then search for it in the previous sentences.
+	3. If the level of the spine is not in the current sentence and can not be found in the previous sentences, specify the anatomy level with the section of the spine (cervical, thoracal, lumbar, or sacral).
+	4. Deduce the levels from different expressions. For example:
+		- 2 lower levels of the lumbar spine -> L4, L5, 
+		- lumbar levels -> L1, L2, L3, L4, L5,
+		- lower thoracic -> T9, T10, T11, T12  
+	5. No overlap between anatomy and level expressions. If there is a level or section expression in the anatomy expression, delete these from the anatomy expression. 
+
+I will provide a template for your output. CAPITALIZED WORDS are placeholders for content. Please preserve the formatting and overall template provided.
+-> sentence: <ONE SENTENCE>
+	- level: <SPINE SECTION AND LEVEL OF ANATOMY>
+	- anatomy: <ANATOMY>
+	- degeneration: <LESION>
+	*****
+	
+Step 5: Work with the level-anatomy-degeneration triplets generated for sentences in Step 4. Check the following rules, and if any anatomy or degeneration expression contains unnecessary information, remove it from the anatomy or degeneration expression:
+	1. Descriptive features: there is no descriptive feature in the degeneration expression, such as significant, beginning, mild, etc..
+	2. Anatomical terms of location: there is no expression describing anatomical terms of location, like: anterior, central, bilateral, right, left in the extracted degeneration and anatomy expressions. Here are some examples:
+		- right foraminal -> foraminal
+		- descending bilateral L4 nerve roots -> descending nerve roots
+		- anterior aspect of the cord -> cord
+	3. Overlap: there is no overlap between the anatomy and the degeneration expressions.
+Append the Step 5 output to the final output, which already contains the "no degeneration found" and "not spine" sentences of Step 2.
+
+Step 6: Return with just the final output. Do not contain the inner step outputs.
+
+Here are two example records, and the corresponding outputs.
+Record 1: Limited study due to motion. At the craniocervical junction and from C2-3 to C4-5 no abnormalities are seen. The spinal cord shows normal signal intensities. C6-7: no significant disc bulge or disc herniation is seen. There is mild indentation on the thecal sac. Moderate decreases of disk height are appreciated at C4-C5 through C6-C7. A broad-based disk/osteophyte complex is evident at C3-C4 not flattening the ventral aspect of the cord. Please see CT torso report from same day for details regarding pulmonary findings including a concerning right apical lung nodule.
+
+Output:
+-> sentence: Limited study due to motion.
+	- no degeneration found
+-> sentence: At the craniocervical junction and from C2-3 to C4-5 no abnormalities are seen.
+	- no degeneration found
+-> sentence: C6-7: no significant disc bulge or disc herniation is seen.
+	- no degeneration found
+-> sentence: There is mild indentation on the thecal sac.
+	- level: C6-7
+	- anatomy: thecal sac
+	- degeneration: indentation
+-> sentence: Moderate decreases of disk height are appreciated at C4-C5 through C6-C7.
+	- level: C4-C5, C5-C6, C6-C7
+	- anatomy: disk
+	- degeneration: decreases of height
+-> sentence: A broad-based disk/osteophyte complex is evident at C3-C4 not flattening the ventral aspect of the cord.
+	- level: C3-C4
+	- anatomy: disk
+	- degeneration: osteophyte complex
+-> sentence: Please see CT torso report from same day for details regarding pulmonary findings including a concerning right apical lung nodule.
+	- not spine
+
+Record 2: The discs at T2-W are slightly hypoechoic. No oedema observed. At L4-5, there is a mild disk bulge and posterior facet degenerative changes. The lumbar lordosis is increased, with minimal disc desiccation. At levels L1-2, L2-3, L3-4 and L4-5 narrow, circular protrusions are found modelling the dural sac and touching the descending right nerve roots in the narrow foramens. Herniae in the 2 lower levels, compress the exiting L5 nerve root.
+
+Output:
+-> sentence: The discs at T2-W are slightly hypoechoic.
+	- level: L1, L2, L3, L4, L5
+	- anatomy: disc
+	- degeneration: T2-W hypoechoic
+-> sentence: No oedema observed.
+	- no degeneration found
+-> sentence: At L4-5, there is a mild disk bulge and posterior facet degenerative changes.
+	- level: L4-5
+	- anatomy: disk
+	- degeneration: bulge
+	*****
+	- level: L4-5
+	- anatomy: facet
+	- degeneration: degenerative changes
+-> sentence: The lumbar lordosis is increased, with minimal disc desiccation.
+	- level: lumbar
+	- anatomy: -
+	- degeneration: lordosis increased
+	*****
+	- level: L1, L2, L3, L4, L5
+	- anatomy: disc
+	- degeneration: desiccation
+-> sentence: At levels L1-2, L2-3, L3-4 and L4-5 narrow, circular protrusions are found modelling the dural sac and touching the descending right nerve roots in the narrow foramens.
+	- level: L1-2, L2-3, L3-4, L4-5
+	- anatomy: -
+	- degeneration: protrusion
+	*****
+	- level: L1-2, L2-3, L3-4, L4-5
+	- anatomy: dural sac
+	- degeneration: modelling
+	*****
+	- level: L1-2, L2-3, L3-4, L4-5
+	- anatomy: descending nerve roots
+	- degeneration: touching
+	*****
+	- level: L1-2, L2-3, L3-4, L4-5
+	- anatomy: foramens
+	- degeneration: narrow
+-> sentence: Herniae in the 2 lower levels, compress the exiting L5 nerve root.
+	- level: L4, L5
+	- anatomy: -
+	- degeneration: herniae
+	*****
+	- level: L5
+	- anatomy: exiting nerve root
+	- degeneration: compress
+	
+Let's think this step by step. The ouput just need to contain the last step's output.
